@@ -11,7 +11,10 @@ authors:
     given-names: Iva
     affiliation: Sapiente Education Program
 version: 1.0.0
-date-released: 2026-08-21
+date-released: 2026-08-23
+doi: 10.5281/zenodo.22065859
+repository-code: "https://github.com/vxxqv/bacteriocin-length-mic-analysis"
+url: "https://doi.org/10.5281/zenodo.22065859"
 license: MIT
 keywords:
   - bacteriocin

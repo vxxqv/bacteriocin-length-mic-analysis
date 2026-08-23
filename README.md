@@ -50,3 +50,7 @@ InterProScan 5.78-109.0 supplied Pfam, Gene3D, and SMART domain annotations.
 Clustal Omega 1.2.4 supplied the multiple-sequence alignment. Retained pairwise identity and a descriptive neighbor-joining tree were calculated from that alignment with Biopython 1.85.
 
 The associated study cites the publications for IUPred3, InterProScan, the EMBL-EBI Job Dispatcher, Clustal Omega, Biopython, SciPy, statsmodels, Matplotlib, and seaborn.
+
+CITATION
+
+Patni, V., & Atanaskovic, I. (2026). Bacteriocin protein length and minimum inhibitory concentration analysis (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22065859
