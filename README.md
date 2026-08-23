@@ -1,14 +1,19 @@
 BACTERIOCIN PROTEIN LENGTH AND MIC ANALYSIS
 
 Authors
+
 Vivaan Patni
+
 Dr Iva Atanaskovic
 
 Affiliation
+
 Sapiente Education Program
 
 Corresponding author
+
 Vivaan Patni
+
 vivaanpatni2010@gmail.com
 
 CONTENTS
