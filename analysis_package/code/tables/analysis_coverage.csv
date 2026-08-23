@@ -1,0 +1,7 @@
+analysis,status,reason
+Total protein length,completed,Validated sequences available for all 11 retained proteins; modeled for 15 source-defined MIC records
+IUPred3 IDR length,completed,Official IUPred3 long-disorder predictions available for all 11 retained proteins
+Representative functional-domain length,completed,"Exploratory Pfam, Gene3D, and SMART domain spans available for all 11 retained proteins"
+Non-cytotoxic length,not modeled,Consistent experimentally supported cytotoxic-domain boundaries were unavailable across proteins
+Adjusted regression,not modeled,"Fifteen records from 11 proteins were too sparse for stable target, receptor, and assay adjustment"
+Homologous cytotoxic-domain maximum-likelihood tree,not modeled,The dataset spans unrelated toxin families and uniform domain boundaries were unavailable

@@ -1,0 +1,23 @@
+{
+  "retrieval_date": "2026-08-21",
+  "iupred3": {
+    "service": "IUPred3 official server",
+    "mode": "long",
+    "smoothing": "medium",
+    "threshold": 0.5,
+    "retained_proteins": 11
+  },
+  "interproscan": {
+    "service": "EMBL-EBI Job Dispatcher InterProScan 5",
+    "version": "5.78-109.0",
+    "job_id": "iprscan5-I20260821-110502-0031-23561324-p1m",
+    "retained_output": "interproscan_retained_results.tsv"
+  },
+  "clustal_omega": {
+    "service": "EMBL-EBI Job Dispatcher Clustal Omega",
+    "version": "1.2.4",
+    "job_id": "clustalo-I20260821-110328-0255-70665075-p1m",
+    "retained_alignment": "clustalo_retained_alignment.fasta",
+    "postprocessing": "All-gap columns removed, pairwise identity recalculated, and a neighbor-joining tree constructed with Biopython 1.85"
+  }
+}

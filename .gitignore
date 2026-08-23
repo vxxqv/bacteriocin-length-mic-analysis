@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+iupred3_raw/
+*.pyc
+/Bacteriocin_Length_MIC_Analysis_Package.zip
+/Create-And-Publish-GitHub.ps1
+/Fix-GitHub-Commit-Identity.ps1
+/Patni_et_al_2026_Manuscript.docx
+/Patni_et_al_2026_Supplemental.docx
+/figures/
+/tables/
+/analysis_package/Publish-To-GitHub.ps1
+/analysis_package/MANUSCRIPT_FORMAT_NOTES.txt
+/analysis_package/ZENODO_INSTRUCTIONS.txt

@@ -1,0 +1,5 @@
+{
+  "source": "EMBL-EBI InterProScan 5.78-109.0 retained-protein results",
+  "rule": "Pfam PF01024 for pore-forming proteins, Gene3D G3DSA:3.30.450.400 for ColM catalytic domains, and summed SMART SM00108 tandem lectin domains",
+  "interpretation": "Exploratory cross-family representative functional-domain span"
+}

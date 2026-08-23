@@ -1,0 +1,12 @@
+bacteriocin,protein_id,annotation_method,signature_accession,representative_feature,aggregation,feature_coordinates,motif_length_aa
+Pyocin S5,Pyocin_S5,Pfam,PF01024,pore-forming domain,single,310-494,185
+PaeM4,PaeM4,Gene3D,G3DSA:3.30.450.400,ColM catalytic domain,single,184-341,158
+LlpA BW11M1,LlpA_BW11M1,SMART,SM00108,tandem lectin domains,sum,14-137; 146-253,232
+Pyocin L1,Pyocin_L1,SMART,SM00108,tandem lectin domains,sum,8-108; 123-228,207
+Syringacin M,Syringacin_M,Gene3D,G3DSA:3.30.450.400,ColM catalytic domain,single,126-276,151
+KpneA,KpneA,Pfam,PF01024,pore-forming domain,single,189-335,147
+KaerA,KaerA,Pfam,PF01024,pore-forming domain,single,196-353,158
+KvarIa,KvarIa,Pfam,PF01024,pore-forming domain,single,227-410,184
+KvarM,KvarM,Gene3D,G3DSA:3.30.450.400,ColM catalytic domain,single,147-276,130
+KpneM,KpneM,Gene3D,G3DSA:3.30.450.400,ColM catalytic domain,single,148-278,131
+KpneM2,KpneM2,Gene3D,G3DSA:3.30.450.400,ColM catalytic domain,single,146-272,127

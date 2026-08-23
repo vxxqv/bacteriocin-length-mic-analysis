@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it using the metadata below."
+title: "Bacteriocin protein length and minimum inhibitory concentration analysis"
+type: software
+authors:
+  - family-names: Patni
+    given-names: Vivaan
+    email: vivaanpatni2010@gmail.com
+    affiliation: Sapiente Education Program
+  - family-names: Atanaskovic
+    given-names: Iva
+    affiliation: Sapiente Education Program
+version: 1.0.0
+date-released: 2026-08-21
+license: MIT
+keywords:
+  - bacteriocin
+  - minimum inhibitory concentration
+  - protein length
+  - IUPred3
+  - InterProScan
+  - Clustal Omega

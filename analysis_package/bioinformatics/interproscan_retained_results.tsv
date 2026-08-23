@@ -1,0 +1,98 @@
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	310	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	363	379	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	315	337	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Pfam	PF01024	Colicin pore forming domain	196	353	2.8E-5	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	341	362	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	SUPERFAMILY	SSF56837	Colicin	132	376	5.89E-52	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	335	340	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	311	334	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	PRINTS	PR00280	Channel forming colicin signature	222	237	3.1E-10	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	PRINTS	PR00280	Channel forming colicin signature	241	257	3.1E-10	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	PRINTS	PR00280	Channel forming colicin signature	299	312	3.1E-10	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	MobiDBLite	mobidb-lite	consensus disorder prediction	13	29	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	342	364	-	T	21-08-2026	-	-	-	-
+KaerA	231b43165615c6fa6fe3481e8d1dd98b	379	Gene3D	G3DSA:1.10.490.30	Colicin	160	375	6.2E-69	T	21-08-2026	IPR038283	Channel forming colicin, C-terminal domain superfamily	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	SMART	SM00108	blect_4	8	108	2.1E-4	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	SMART	SM00108	blect_4	123	228	0.0052	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	Gene3D	G3DSA:2.90.10.10	-	118	199	1.2E-107	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	Gene3D	G3DSA:2.90.10.30	-	5	242	1.2E-107	T	21-08-2026	-	-	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	SUPERFAMILY	SSF51110	alpha-D-mannose-specific plant lectins	14	110	8.12E-15	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	ProSiteProfiles	PS50927	Bulb-type lectin domain profile.	2	168	9.192648	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+Pyocin_L1	169e0bd7f160d46fcd8cd0ed1d5f60ec	256	SUPERFAMILY	SSF51110	alpha-D-mannose-specific plant lectins	125	217	1.92E-16	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+KvarM	b5c3ba5212bdd75cf02f4bea394819f3	276	Gene3D	G3DSA:1.20.1440.280	-	2	146	4.7E-55	T	21-08-2026	-	-	-	-
+KvarM	b5c3ba5212bdd75cf02f4bea394819f3	276	Gene3D	G3DSA:3.30.450.400	Colicin M, catalytic domain	147	276	2.2E-43	T	21-08-2026	-	-	-	-
+KvarM	b5c3ba5212bdd75cf02f4bea394819f3	276	Pfam	PF14859	Colicin M	22	275	1.8E-64	T	21-08-2026	IPR028056	Colicin M	GO:0042742(InterPro)	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	FunFam	G3DSA:3.30.450.400:FF:000001	Putative Bacteriocin	126	276	7.0E-104	T	21-08-2026	-	-	-	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	MobiDBLite	mobidb-lite	consensus disorder prediction	12	32	-	T	21-08-2026	-	-	-	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	FunFam	G3DSA:1.10.150.880:FF:000001	Bacteriocin, putative	1	125	1.3E-86	T	21-08-2026	-	-	-	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	Pfam	PF14859	Colicin M	125	275	2.5E-33	T	21-08-2026	IPR028056	Colicin M	GO:0042742(InterPro)	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	Gene3D	G3DSA:3.30.450.400	Colicin M, catalytic domain	126	276	3.9E-57	T	21-08-2026	-	-	-	-
+Syringacin_M	80b549907ce49e921b01f70cd28e1c76	276	Gene3D	G3DSA:1.10.150.880	-	1	125	2.8E-84	T	21-08-2026	-	-	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	Gene3D	G3DSA:2.90.10.10	-	151	220	5.1E-72	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	SMART	SM00108	blect_4	14	137	0.005	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	SMART	SM00108	blect_4	146	253	6.7E-9	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	Gene3D	G3DSA:2.90.10.10	-	111	262	5.1E-72	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	ProSiteProfiles	PS50927	Bulb-type lectin domain profile.	146	253	10.074986	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	ProSiteProfiles	PS50927	Bulb-type lectin domain profile.	14	137	13.105623	T	21-08-2026	IPR001480	Bulb-type lectin domain	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	SUPERFAMILY	SSF51110	alpha-D-mannose-specific plant lectins	156	248	9.68E-21	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	NCBIfam	NF033557	putidacin L1 family lectin-like bacteriocin	9	276	1.3E-109	T	21-08-2026	-	-	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	Gene3D	G3DSA:2.90.10.10	-	1	105	1.4E-30	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+LlpA_BW11M1	20967aa005967de202d16610b56ed11f	276	SUPERFAMILY	SSF51110	alpha-D-mannose-specific plant lectins	14	133	8.52E-14	T	21-08-2026	IPR036426	Bulb-type lectin domain superfamily	-	-
+KpneM2	173ed999dc2d7042b5a6cc7460fe8cf2	272	Gene3D	G3DSA:1.20.1440.280	-	2	142	4.8E-48	T	21-08-2026	-	-	-	-
+KpneM2	173ed999dc2d7042b5a6cc7460fe8cf2	272	Gene3D	G3DSA:3.30.450.400	Colicin M, catalytic domain	146	272	8.5E-45	T	21-08-2026	-	-	-	-
+KpneM2	173ed999dc2d7042b5a6cc7460fe8cf2	272	Pfam	PF14859	Colicin M	5	271	1.1E-61	T	21-08-2026	IPR028056	Colicin M	GO:0042742(InterPro)	-
+PaeM4	1cce35b920fc4eb212546304d2546a54	342	Gene3D	G3DSA:3.30.450.400	Colicin M, catalytic domain	184	341	1.9E-41	T	21-08-2026	-	-	-	-
+PaeM4	1cce35b920fc4eb212546304d2546a54	342	Pfam	PF14859	Colicin M	185	337	8.1E-21	T	21-08-2026	IPR028056	Colicin M	GO:0042742(InterPro)	-
+KpneM	f68ee71be2d04949cee1e55590779b3d	278	Gene3D	G3DSA:1.20.1440.280	-	2	147	3.8E-60	T	21-08-2026	-	-	-	-
+KpneM	f68ee71be2d04949cee1e55590779b3d	278	Gene3D	G3DSA:3.30.450.400	Colicin M, catalytic domain	148	278	2.5E-37	T	21-08-2026	-	-	-	-
+KpneM	f68ee71be2d04949cee1e55590779b3d	278	Pfam	PF14859	Colicin M	18	278	8.6E-71	T	21-08-2026	IPR028056	Colicin M	GO:0042742(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	453	478	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Pfam	PF01024	Colicin pore forming domain	310	494	3.4E-121	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	ProSitePatterns	PS00276	Channel forming colicins signature.	432	443	-	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	PRINTS	PR00280	Channel forming colicin signature	355	370	1.1E-16	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	PRINTS	PR00280	Channel forming colicin signature	374	390	1.1E-16	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	PRINTS	PR00280	Channel forming colicin signature	432	445	1.1E-16	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	PRINTS	PR00280	Channel forming colicin signature	446	464	1.1E-16	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	SUPERFAMILY	SSF56837	Colicin	220	497	1.57E-81	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	452	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Coils	Coil	Coil	174	194	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	479	498	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Gene3D	G3DSA:1.10.490.30	Colicin	290	497	2.3E-70	T	21-08-2026	IPR038283	Channel forming colicin, C-terminal domain superfamily	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Coils	Coil	Coil	197	217	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	453	475	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Coils	Coil	Coil	241	261	-	T	21-08-2026	-	-	-	-
+Pyocin_S5	53a5bc684c87af29609b8b39b36c977e	498	Coils	Coil	Coil	282	320	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	379	401	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	MobiDBLite	mobidb-lite	consensus disorder prediction	23	32	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Pfam	PF01024	Colicin pore forming domain	227	410	5.0E-46	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	MobiDBLite	mobidb-lite	consensus disorder prediction	1	11	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	PRINTS	PR00280	Channel forming colicin signature	272	287	1.9E-19	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	PRINTS	PR00280	Channel forming colicin signature	291	307	1.9E-19	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	PRINTS	PR00280	Channel forming colicin signature	349	362	1.9E-19	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	PRINTS	PR00280	Channel forming colicin signature	363	381	1.9E-19	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	MobiDBLite	mobidb-lite	consensus disorder prediction	1	55	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	MobiDBLite	mobidb-lite	consensus disorder prediction	112	138	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	355	380	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Gene3D	G3DSA:1.10.490.30	Colicin	223	414	3.0E-63	T	21-08-2026	IPR038283	Channel forming colicin, C-terminal domain superfamily	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Coils	Coil	Coil	153	173	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	381	385	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	386	405	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	1	354	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Coils	Coil	Coil	175	235	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	PANTHER	PTHR34403	TOL-PAL SYSTEM PROTEIN TOLA	158	295	9.3E-11	T	21-08-2026	IPR050972	Serine-aspartate repeat-containing protein-like	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	406	414	-	T	21-08-2026	-	-	-	-
+KvarIa	596375ed134d96332e967c2baeef448f	414	SUPERFAMILY	SSF56837	Colicin	159	414	9.68E-69	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Gene3D	G3DSA:1.10.490.30	Colicin	157	373	1.6E-67	T	21-08-2026	IPR038283	Channel forming colicin, C-terminal domain superfamily	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Pfam	PF01024	Colicin pore forming domain	189	335	2.7E-4	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	SUPERFAMILY	SSF56837	Colicin	132	372	1.44E-46	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	311	334	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	311	333	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	PRINTS	PR00280	Channel forming colicin signature	220	235	4.2E-6	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	PRINTS	PR00280	Channel forming colicin signature	239	255	4.2E-6	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	PRINTS	PR00280	Channel forming colicin signature	297	310	4.2E-6	T	21-08-2026	IPR000293	Channel forming colicin, C-terminal cytotoxic	GO:0016020(InterPro)|GO:0031640(InterPro)|GO:0050829(InterPro)|GO:0140911(InterPro)	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	340	360	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	335	339	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	361	377	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	340	362	-	T	21-08-2026	-	-	-	-
+KpneA	37bd3545e2e7bdde430218cdfded08c9	377	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	1	310	-	T	21-08-2026	-	-	-	-

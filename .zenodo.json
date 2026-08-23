@@ -1,0 +1,25 @@
+{
+  "title": "Bacteriocin protein length and minimum inhibitory concentration analysis",
+  "description": "Reproducible data, code, figures, and tables for an exploratory analysis of bacteriocin protein length, predicted intrinsic disorder, representative functional-domain length, and minimum inhibitory concentration.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Patni, Vivaan",
+      "affiliation": "Sapiente Education Program"
+    },
+    {
+      "name": "Atanaskovic, Iva",
+      "affiliation": "Sapiente Education Program"
+    }
+  ],
+  "keywords": [
+    "bacteriocin",
+    "minimum inhibitory concentration",
+    "protein length",
+    "IUPred3",
+    "InterProScan",
+    "Clustal Omega"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
+}
