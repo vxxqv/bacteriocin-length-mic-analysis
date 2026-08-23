@@ -1,16 +1,16 @@
 BACTERIOCIN PROTEIN LENGTH AND MIC ANALYSIS
 
-Authors
+AUTHORS
 
 Vivaan Patni
 
 Dr Iva Atanaskovic
 
-Affiliation
+AFFILIATION
 
 Sapiente Education Program
 
-Corresponding author
+CORRESPONDING AUTHOR
 
 Vivaan Patni
 
