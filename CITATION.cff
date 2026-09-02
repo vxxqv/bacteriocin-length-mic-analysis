@@ -10,10 +10,10 @@ authors:
   - family-names: Atanaskovic
     given-names: Iva
     affiliation: Sapiente Education Program
-version: 1.2.0
+version: 1.2.1
 date-released: 2026-09-02
 repository-code: "https://github.com/vxxqv/bacteriocin-length-mic-analysis"
-url: "https://doi.org/10.5281/zenodo.22260427"
+url: "https://doi.org/10.5281/zenodo.22065858"
 license: MIT
 keywords:
   - bacteriocin

@@ -18,7 +18,7 @@ The dataset includes 47 MIC observations for 22 sequence-validated bacteriocins 
 ├── CITATION.cff          Citation metadata
 ├── LICENSE.txt
 ├── README.md
-└── RELEASE_NOTES_v1.2.0.md
+└── RELEASE_NOTES_v1.2.1.md
 ```
 
 ## Run
@@ -31,4 +31,4 @@ python analysis_package/code/advanced_analysis.py
 
 The archived record provides downloadable citation formats:
 
-https://doi.org/10.5281/zenodo.22260427
+https://doi.org/10.5281/zenodo.22065858
