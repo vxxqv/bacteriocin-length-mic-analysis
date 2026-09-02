@@ -1,6 +1,6 @@
 {
   "title": "Bacteriocin protein architecture and minimum inhibitory concentration analysis",
-  "description": "Reproducible data, code, bioinformatics outputs, figures, and tables for an interval-aware analysis of bacteriocin protein architecture and minimum inhibitory concentration. Version 1.1 expands the evidence base to 47 observations from 22 proteins and adds family, assay, study, cluster-bootstrap, robust-regression, and held-out-protein prediction analyses.",
+  "description": "Data, validated sequences, bioinformatics outputs, figures, and reproducible code for an interval-aware analysis of bacteriocin protein architecture and minimum inhibitory concentration. The study includes 47 observations from 22 proteins and evaluates pooled associations alongside family, assay, study, robustness, and held-out-protein analyses.",
   "upload_type": "software",
   "access_right": "open",
   "language": "eng",
@@ -25,5 +25,5 @@
     "Clustal Omega"
   ],
   "license": "mit",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }

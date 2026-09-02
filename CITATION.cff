@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software or dataset, please cite it using the metadata below."
+message: "Citation formats are available from the archived record."
 title: "Bacteriocin protein architecture and minimum inhibitory concentration analysis"
 type: software
 authors:
@@ -10,9 +10,10 @@ authors:
   - family-names: Atanaskovic
     given-names: Iva
     affiliation: Sapiente Education Program
-version: 1.1.0
-date-released: 2026-09-01
+version: 1.1.1
+date-released: 2026-09-02
 repository-code: "https://github.com/vxxqv/bacteriocin-length-mic-analysis"
+url: "https://doi.org/10.5281/zenodo.22065859"
 license: MIT
 keywords:
   - bacteriocin
