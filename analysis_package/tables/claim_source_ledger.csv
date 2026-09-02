@@ -1,0 +1,48 @@
+doi,source_location,bacteriocin,target_strain,censoring,reported_lower,reported_upper,reported_unit
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa Br776,exact,26.0,26.0,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa Bu007,exact,10.8,10.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa CFPA22,right,3300.0,inf,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa LMG 1272,exact,88.1,88.1,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa PA134,exact,13.4,13.4,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa PA135,exact,30.0,30.0,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa PA229,exact,224.5,224.5,nM
+10.1002/mbo3.210,Table 2,Pyocin L1,P. aeruginosa PAO1,exact,38.3,38.3,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa Bu007,right,3300.0,inf,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA101,right,3300.0,inf,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA118,exact,37.0,37.0,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA120,exact,61.8,61.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA124,exact,61.8,61.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA13,exact,13.8,13.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CFPA22,exact,61.8,61.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L2,P. aeruginosa CPHL 6750,exact,46.2,46.2,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA101,right,3300.0,inf,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA120,exact,9.7,9.7,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA124,exact,13.8,13.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA13,exact,6.9,6.9,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA22,exact,77.8,77.8,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA54,exact,19.4,19.4,nM
+10.1002/mbo3.210,Table 2,Pyocin L3,P. aeruginosa CFPA87,exact,55.0,55.0,nM
+10.1002/mbo3.339,Figure 4C,Pyocin S6,P. aeruginosa CF_PA109,exact,260.0,260.0,ug/mL
+10.1016/j.febslet.2010.06.021,main text,Pyocin S5,P. aeruginosa DWW3,exact,12.6,12.6,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KaerA,K. variicola DSM15968,exact,0.1,0.1,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KpneA,K. variicola DSM15968,exact,0.2,0.2,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KpneM,K. pneumoniae DSM16358,exact,0.8,0.8,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KpneM,K. variicola DSM15968,exact,0.4,0.4,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KpneM2,K. pneumoniae DSM16358,exact,0.8,0.8,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KvarIa,K. variicola DSM15968,exact,0.4,0.4,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KvarM,K. pneumoniae DSM16358,exact,0.1,0.1,ug/mL
+10.1038/s41598-019-51969-1,Supplementary Table S2,KvarM,K. variicola DSM15968,exact,0.2,0.2,ug/mL
+10.1074/jbc.M112.400150,main text,Syringacin M,P. syringae pv. lachrymans LMG 5456,exact,60.0,60.0,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin A,E. coli K-12 BW25113,interval,2.5,5.0,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin B,E. coli K-12 BW25113,interval,0.5,1.0,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin D,E. coli K-12 BW25113,interval,0.5,1.0,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin E1,E. coli K-12 BW25113,interval,0.125,0.25,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin E2,E. coli K-12 BW25113,interval,0.05,0.1,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin E3,E. coli K-12 BW25113,interval,0.05,0.1,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin E7,E. coli K-12 BW25113,interval,0.05,0.1,nM
+10.1111/j.1365-2958.2009.06788.x,"Results, colicin cytotoxicity and receptor function",Colicin N,E. coli K-12 BW25113,interval,0.5,1.0,nM
+10.1371/journal.pone.0185782,Supplementary Figure S1,PaeM4,P. aeruginosa A19,exact,0.6,0.6,ug/mL
+10.1371/journal.pone.0185782,Supplementary Figure S1,Pyocin S5,P. aeruginosa A19,exact,0.1,0.1,ug/mL
+10.1371/journal.ppat.1003199,main text,LlpA BW11M1,P. syringae GR12-2R3,exact,2.08,2.08,nM
+10.1371/journal.ppat.1003898,main text,Pyocin L1,P. aeruginosa E2,exact,27.0,27.0,nM
+10.1371/journal.ppat.1003898,main text,Pyocin L1,P. aeruginosa P8,exact,7.0,7.0,nM

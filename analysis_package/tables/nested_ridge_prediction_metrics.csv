@@ -1,0 +1,2 @@
+model,n_records,n_proteins,rmse,mae,predictive_r_squared,baseline_rmse,median_selected_alpha
+nested leave-one-protein-out ridge,35,14,1.1823099677360325,0.5918239997807991,-2.1400282530122876,0.6844088395045316,10000.0

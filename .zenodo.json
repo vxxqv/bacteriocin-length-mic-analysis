@@ -1,7 +1,9 @@
 {
-  "title": "Bacteriocin protein length and minimum inhibitory concentration analysis",
-  "description": "Reproducible data, code, figures, and tables for an exploratory analysis of bacteriocin protein length, predicted intrinsic disorder, representative functional-domain length, and minimum inhibitory concentration.",
+  "title": "Bacteriocin protein architecture and minimum inhibitory concentration analysis",
+  "description": "Reproducible data, code, bioinformatics outputs, figures, and tables for an interval-aware analysis of bacteriocin protein architecture and minimum inhibitory concentration. Version 1.1 expands the evidence base to 47 observations from 22 proteins and adds family, assay, study, cluster-bootstrap, robust-regression, and held-out-protein prediction analyses.",
   "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
   "creators": [
     {
       "name": "Patni, Vivaan",
@@ -15,11 +17,13 @@
   "keywords": [
     "bacteriocin",
     "minimum inhibitory concentration",
-    "protein length",
+    "protein architecture",
+    "interval regression",
+    "intrinsic disorder",
     "IUPred3",
     "InterProScan",
     "Clustal Omega"
   ],
-  "license": "MIT",
-  "version": "1.0.0"
+  "license": "mit",
+  "version": "1.1.0"
 }

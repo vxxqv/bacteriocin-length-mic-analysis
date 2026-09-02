@@ -1,0 +1,23 @@
+bacteriocin,accession,database,length_aa,family,domain_signature,domain_coordinates,domain_length_aa
+KpneM,EWD35590.1,NCBI Protein,278,ColM-like,G3DSA:3.30.450.400,148-278,131
+KpneM2,WP_047066220.1,NCBI Protein,272,ColM-like,G3DSA:3.30.450.400,146-272,127
+KvarM,CTQ17225.1,NCBI Protein,276,ColM-like,G3DSA:3.30.450.400,147-276,130
+PaeM4,ERY59288.1,NCBI Protein,342,ColM-like,G3DSA:3.30.450.400,184-341,158
+Syringacin M,Q88A25,UniProtKB,276,ColM-like,G3DSA:3.30.450.400,126-276,151
+LlpA BW11M1,AAM95702.1,NCBI Protein,276,lectin-like,SM00108,14-137; 146-253,232
+Pyocin L1,CDG56231.1,NCBI Protein,256,lectin-like,SM00108,8-108; 123-228,207
+Pyocin L2,ERX71449.1,NCBI Protein,256,lectin-like,SM00108,8-121; 123-227,219
+Pyocin L3,ERZ09331.1,NCBI Protein,290,lectin-like,SM00108,154-261,108
+Colicin D,P17998,UniProtKB,697,nuclease,PF11429,604-684,81
+Colicin E2,P04419,UniProtKB,581,nuclease,PF21431,456-579,124
+Colicin E3,P00646,UniProtKB,551,nuclease,PF09000,465-548,84
+Colicin E7,Q47112,UniProtKB,576,nuclease,PF21431,451-574,124
+Pyocin S6,KYO98147.1,NCBI Protein,571,nuclease,PF09000,491-570,80
+Colicin A,P04480,UniProtKB,592,pore-forming,PF01024,392-585,194
+Colicin B,P05819,UniProtKB,511,pore-forming,PF01024,331-506,176
+Colicin E1,P02978,UniProtKB,522,pore-forming,PF01024,344-518,175
+Colicin N,P08083,UniProtKB,387,pore-forming,PF01024,187-361,175
+KaerA,WP_063414841.1,NCBI Protein,379,pore-forming,PF01024,196-353,158
+KpneA,SAV78255.1,NCBI Protein,377,pore-forming,PF01024,189-335,147
+KvarIa,KDL88409.1,NCBI Protein,414,pore-forming,PF01024,227-410,184
+Pyocin S5,WP_003115311.1,NCBI Protein,498,pore-forming,PF01024,310-494,185

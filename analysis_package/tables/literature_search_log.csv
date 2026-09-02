@@ -1,0 +1,7 @@
+database,query,search_date,purpose
+Amass BiomedCore,bacteriocin OR colicin OR pyocin OR klebicin OR syringacin AND minimum inhibitory concentration OR MIC AND purified protein,2026-09-01,Discovery and full-text validation
+PubMed and PMC,colicin minimum inhibitory concentration purified; pyocin minimum inhibitory concentration purified; pectocin MIC bacteriocin; klebicin MIC bacteriocin,2026-09-01,Primary-source discovery
+Sider Scholar OpenAlex,protein bacteriocin minimum inhibitory concentration,2026-09-01,Broad discovery with manual primary-source validation
+Scite,bacteriocin OR colicin OR pyocin OR klebicin OR syringacin AND minimum inhibitory concentration OR MIC AND purified,2026-09-01,Citation and retraction screening
+Consensus,purified protein bacteriocin minimum inhibitory concentration Gram-negative colicin pyocin klebicin,2026-09-01,Discovery cross-check
+SciSpace,studies reporting quantitative MICs for purified soluble protein bacteriocins active against Gram-negative bacteria,2026-09-01,Discovery cross-check

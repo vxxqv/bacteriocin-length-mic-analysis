@@ -1,0 +1,102 @@
+predictor,analysis,standardized_slope,approximate_se,wald_ci95_low,wald_ci95_high,converged,omitted,family
+length_aa,unadjusted,-0.559510100510891,0.1774519353828856,-0.9073158938613468,-0.21170430716043526,True,,
+length_aa,adjusted for family,-0.04649984726439432,0.5478577218033988,-1.1203009819990557,1.0273012874702672,True,,
+length_aa,adjusted for assay_group,0.4640978980968146,0.2859799628769092,-0.0964228291419274,1.0246186253355567,True,,
+length_aa,adjusted for family and assay_group,0.6195910730896628,0.48840992484043183,-0.3376923795975836,1.5768745257769092,True,,
+length_aa,leave one study out,-0.6205273116400062,,,,True,10.1016/j.febslet.2010.06.021,
+length_aa,leave one study out,-0.563888540287957,,,,True,10.1371/journal.pone.0185782,
+length_aa,leave one study out,-0.5748567895986356,,,,True,10.1371/journal.ppat.1003199,
+length_aa,leave one study out,-0.5812873508054507,,,,True,10.1371/journal.ppat.1003898,
+length_aa,leave one study out,-0.5561511186908248,,,,True,10.1074/jbc.M112.400150,
+length_aa,leave one study out,-0.6291018650608482,,,,True,10.1038/s41598-019-51969-1,
+length_aa,leave one study out,-0.2597757368550423,,,,True,10.1002/mbo3.210,
+length_aa,leave one study out,-0.7231875565880533,,,,True,10.1002/mbo3.339,
+length_aa,leave one study out,0.11135477601595715,,,,True,10.1111/j.1365-2958.2009.06788.x,
+length_aa,within family,0.03749800408093394,,,,True,,pore-forming
+length_aa,within family,0.04323360739914648,,,,True,,ColM-like
+length_aa,within family,-0.11984929380874747,,,,True,,lectin-like
+length_aa,within family,-0.016380464398600966,,,,True,,nuclease
+domain_length_aa,unadjusted,0.2222046379503159,0.1558237846611169,-0.08320997998547322,0.527619255886105,True,,
+domain_length_aa,adjusted for family,-0.009474420655556424,0.17700770210770317,-0.3564095167866546,0.33746067547554176,True,,
+domain_length_aa,adjusted for assay_group,-0.044330069470729164,0.1255454538513611,-0.2903991590193969,0.2017390200779386,True,,
+domain_length_aa,adjusted for family and assay_group,0.08860884975674005,0.13819653151483943,-0.18225635201234525,0.35947405152582534,True,,
+domain_length_aa,leave one study out,0.21264648803065292,,,,True,10.1016/j.febslet.2010.06.021,
+domain_length_aa,leave one study out,0.2353859104195542,,,,True,10.1371/journal.pone.0185782,
+domain_length_aa,leave one study out,0.24501273010912802,,,,True,10.1371/journal.ppat.1003199,
+domain_length_aa,leave one study out,0.23921117518960042,,,,True,10.1371/journal.ppat.1003898,
+domain_length_aa,leave one study out,0.23127740671822797,,,,True,10.1074/jbc.M112.400150,
+domain_length_aa,leave one study out,0.23686706435839083,,,,True,10.1038/s41598-019-51969-1,
+domain_length_aa,leave one study out,-0.017156553418080773,,,,True,10.1002/mbo3.210,
+domain_length_aa,leave one study out,0.3259480302785648,,,,True,10.1002/mbo3.339,
+domain_length_aa,leave one study out,0.023314849952308057,,,,True,10.1111/j.1365-2958.2009.06788.x,
+domain_length_aa,within family,0.19513898752366513,,,,True,,pore-forming
+domain_length_aa,within family,0.19924163576545806,,,,True,,ColM-like
+domain_length_aa,within family,0.04784535134095138,,,,True,,lectin-like
+domain_length_aa,within family,-1.036707354225816,,,,True,,nuclease
+idr_fraction,unadjusted,-0.766945741272153,0.17319536190577975,-1.1064086506074813,-0.4274828319368247,True,,
+idr_fraction,adjusted for family,-0.857588342332132,0.33750361773882465,-1.5190954331002282,-0.19608125156403566,True,,
+idr_fraction,adjusted for assay_group,-0.0021727601605405476,0.2783101968285088,-0.5476607459444178,0.5433152256233367,True,,
+idr_fraction,adjusted for family and assay_group,-0.2907228742056074,0.30436869744725076,-0.8872855212022188,0.30583977279100405,True,,
+idr_fraction,leave one study out,-0.7649804474033816,,,,True,10.1016/j.febslet.2010.06.021,
+idr_fraction,leave one study out,-0.7754714899444604,,,,True,10.1371/journal.pone.0185782,
+idr_fraction,leave one study out,-0.7876079095168953,,,,True,10.1371/journal.ppat.1003199,
+idr_fraction,leave one study out,-0.7840184678187779,,,,True,10.1371/journal.ppat.1003898,
+idr_fraction,leave one study out,-0.7773403158913275,,,,True,10.1074/jbc.M112.400150,
+idr_fraction,leave one study out,-0.9035937947430696,,,,True,10.1038/s41598-019-51969-1,
+idr_fraction,leave one study out,-0.5597930306961614,,,,True,10.1002/mbo3.210,
+idr_fraction,leave one study out,-0.8464762165473012,,,,True,10.1002/mbo3.339,
+idr_fraction,leave one study out,-0.06741517471195967,,,,True,10.1111/j.1365-2958.2009.06788.x,
+idr_fraction,within family,-0.24045427546164155,,,,True,,pore-forming
+idr_fraction,within family,0.06660459614804301,,,,True,,ColM-like
+idr_fraction,within family,-0.07401853866242897,,,,True,,lectin-like
+idr_fraction,within family,-1.3230847898708262,,,,True,,nuclease
+nterm40_idr_fraction,unadjusted,-0.7363246208321422,0.16627818624370713,-1.0622298658698082,-0.41041937579447624,True,,
+nterm40_idr_fraction,adjusted for family,-0.7080041299397292,0.30192634778627714,-1.2997797716008324,-0.11622848827862597,True,,
+nterm40_idr_fraction,adjusted for assay_group,0.005963740719074663,0.25708885860034,-0.49793042213759164,0.509857903575741,True,,
+nterm40_idr_fraction,adjusted for family and assay_group,-0.3184202504890245,0.2777822837218521,-0.8628735265838545,0.22603302560580557,True,,
+nterm40_idr_fraction,leave one study out,-0.7336017540764798,,,,True,10.1016/j.febslet.2010.06.021,
+nterm40_idr_fraction,leave one study out,-0.7446143327847005,,,,True,10.1371/journal.pone.0185782,
+nterm40_idr_fraction,leave one study out,-0.752838019811042,,,,True,10.1371/journal.ppat.1003199,
+nterm40_idr_fraction,leave one study out,-0.7571175885198558,,,,True,10.1371/journal.ppat.1003898,
+nterm40_idr_fraction,leave one study out,-0.7785288928449838,,,,True,10.1074/jbc.M112.400150,
+nterm40_idr_fraction,leave one study out,-0.8835036433402226,,,,True,10.1038/s41598-019-51969-1,
+nterm40_idr_fraction,leave one study out,-0.5332815106482426,,,,True,10.1002/mbo3.210,
+nterm40_idr_fraction,leave one study out,-0.7327603748866957,,,,True,10.1002/mbo3.339,
+nterm40_idr_fraction,leave one study out,-0.247742640183807,,,,True,10.1111/j.1365-2958.2009.06788.x,
+nterm40_idr_fraction,within family,-0.2492368778014951,,,,True,,pore-forming
+nterm40_idr_fraction,within family,0.30654216712744653,,,,True,,ColM-like
+nterm40_idr_fraction,within family,-1.6898405403602044,,,,True,,nuclease
+domain_charge_pH7,unadjusted,-0.6121341985614258,0.16882404544043128,-0.9430293276246711,-0.2812390694981805,True,,
+domain_charge_pH7,adjusted for family,-0.4036770111611686,0.31193650563911623,-1.0150725622138363,0.20771853989149924,True,,
+domain_charge_pH7,adjusted for assay_group,-0.07161668613261526,0.2025752624343024,-0.46866420050384794,0.32543082823861746,True,,
+domain_charge_pH7,adjusted for family and assay_group,-0.29400297167963574,0.25026589975116487,-0.7845241351919189,0.1965181918326474,True,,
+domain_charge_pH7,leave one study out,-0.633926151950104,,,,True,10.1016/j.febslet.2010.06.021,
+domain_charge_pH7,leave one study out,-0.6296856976557429,,,,True,10.1371/journal.pone.0185782,
+domain_charge_pH7,leave one study out,-0.621773595221759,,,,True,10.1371/journal.ppat.1003199,
+domain_charge_pH7,leave one study out,-0.6232827625934497,,,,True,10.1371/journal.ppat.1003898,
+domain_charge_pH7,leave one study out,-0.5985737084408349,,,,True,10.1074/jbc.M112.400150,
+domain_charge_pH7,leave one study out,-0.7016962179320344,,,,True,10.1038/s41598-019-51969-1,
+domain_charge_pH7,leave one study out,-0.3503687586484262,,,,True,10.1002/mbo3.210,
+domain_charge_pH7,leave one study out,-0.7771268873217582,,,,True,10.1002/mbo3.339,
+domain_charge_pH7,leave one study out,-0.17575627292805887,,,,True,10.1111/j.1365-2958.2009.06788.x,
+domain_charge_pH7,within family,-0.07648583420480248,,,,True,,pore-forming
+domain_charge_pH7,within family,-0.2758777514901856,,,,True,,ColM-like
+domain_charge_pH7,within family,-0.33500245441569076,,,,True,,lectin-like
+domain_charge_pH7,within family,-0.4821574267640208,,,,True,,nuclease
+domain_gravy,unadjusted,0.3608269323339691,0.23804754293613922,-0.10574625182086372,0.827400116488802,True,,
+domain_gravy,adjusted for family,0.4092988945691731,0.5867256356111119,-0.7406833512286062,1.5592811403669524,True,,
+domain_gravy,adjusted for assay_group,-0.02790485964419072,0.19165641421772173,-0.40355143151092526,0.34774171222254385,True,,
+domain_gravy,adjusted for family and assay_group,0.07326276146577032,0.5219741106890334,-0.9498064954847352,1.096332018416276,True,,
+domain_gravy,leave one study out,0.3420959607706817,,,,True,10.1016/j.febslet.2010.06.021,
+domain_gravy,leave one study out,0.3864643113419469,,,,True,10.1371/journal.pone.0185782,
+domain_gravy,leave one study out,0.39422905556206156,,,,True,10.1371/journal.ppat.1003199,
+domain_gravy,leave one study out,0.3657388674505505,,,,True,10.1371/journal.ppat.1003898,
+domain_gravy,leave one study out,0.35517750276615173,,,,True,10.1074/jbc.M112.400150,
+domain_gravy,leave one study out,0.48641195900663525,,,,True,10.1038/s41598-019-51969-1,
+domain_gravy,leave one study out,0.24060738674129553,,,,True,10.1002/mbo3.210,
+domain_gravy,leave one study out,0.6143723703240347,,,,True,10.1002/mbo3.339,
+domain_gravy,leave one study out,-0.4810940369432703,,,,True,10.1111/j.1365-2958.2009.06788.x,
+domain_gravy,within family,-0.15756988747652317,,,,True,,pore-forming
+domain_gravy,within family,0.27630160726790587,,,,True,,ColM-like
+domain_gravy,within family,-0.11106399213328831,,,,True,,lectin-like
+domain_gravy,within family,0.6328623656869944,,,,True,,nuclease

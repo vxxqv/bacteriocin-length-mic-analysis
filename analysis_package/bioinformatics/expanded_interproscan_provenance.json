@@ -1,0 +1,13 @@
+{
+  "job_id": "iprscan5-R20260901-192944-0548-8547009-p1m",
+  "service": "EMBL-EBI Job Dispatcher InterProScan 5",
+  "retrieval_date": "2026-09-01",
+  "outputs": {
+    "tsv": "expanded_interproscan_results.tsv",
+    "xml": "expanded_interproscan_results.xml",
+    "gff": "expanded_interproscan_results.gff3",
+    "json": "expanded_interproscan_results.json",
+    "sequence": "expanded_interproscan_input.fasta",
+    "submission": "expanded_interproscan_submission.xml"
+  }
+}

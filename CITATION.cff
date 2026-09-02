@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or dataset, please cite it using the metadata below."
-title: "Bacteriocin protein length and minimum inhibitory concentration analysis"
+title: "Bacteriocin protein architecture and minimum inhibitory concentration analysis"
 type: software
 authors:
   - family-names: Patni
@@ -10,16 +10,16 @@ authors:
   - family-names: Atanaskovic
     given-names: Iva
     affiliation: Sapiente Education Program
-version: 1.0.0
-date-released: 2026-08-23
-doi: 10.5281/zenodo.22065859
+version: 1.1.0
+date-released: 2026-09-01
 repository-code: "https://github.com/vxxqv/bacteriocin-length-mic-analysis"
-url: "https://doi.org/10.5281/zenodo.22065859"
 license: MIT
 keywords:
   - bacteriocin
   - minimum inhibitory concentration
   - protein length
+  - protein architecture
+  - interval regression
   - IUPred3
   - InterProScan
   - Clustal Omega

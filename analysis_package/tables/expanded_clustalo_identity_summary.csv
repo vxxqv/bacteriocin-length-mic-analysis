@@ -1,0 +1,2 @@
+n_proteins,n_pairs,median_percent_identity,q1_percent_identity,q3_percent_identity,minimum_percent_identity,maximum_percent_identity,pairs_above_95_percent
+22,231,14.942528735632184,12.158167036215817,20.0,0.0,86.94817658349328,0

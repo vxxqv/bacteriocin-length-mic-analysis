@@ -1,0 +1,11 @@
+analysis,status,evidence
+Literature-expanded quantitative MIC dataset,completed,"47 records, 22 proteins, 9 source papers"
+Official sequence validation,completed,NCBI Protein or UniProtKB accession for every protein
+IUPred3 long-disorder analysis,completed,All 22 proteins
+InterProScan functional-domain annotation,completed,Official EMBL-EBI service for all 22 proteins
+Clustal Omega comparison,completed,Official EMBL-EBI service for all 22 proteins
+Interval-censored regression,completed,"Exact, bounded interval, and right-censored MIC observations"
+Adjusted and robust model ladder,completed,"HC3, clustered, Huber, quantile, adjusted, bootstrap, and sensitivity models"
+Nested protein-level ridge validation,completed,Prediction evaluated with outer leave-one-protein-out folds
+Receptor compatibility score,not modeled,Comparable quantitative receptor-expression or binding measurements were not available across proteins
+Experimental three-dimensional descriptors,partially completed,"Protplex verified relevant structures, but complete experimental structures were unavailable for all proteins"

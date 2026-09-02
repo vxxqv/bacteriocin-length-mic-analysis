@@ -1,0 +1,14 @@
+{
+  "job_id": "clustalo-R20260901-193125-0540-44815180-p1m",
+  "service": "EMBL-EBI Job Dispatcher Clustal Omega 1.2.4",
+  "retrieval_date": "2026-09-01",
+  "outputs": {
+    "aln-clustal_num": "expanded_clustalo_alignment.clustal",
+    "fa": "expanded_clustalo_alignment.fasta",
+    "tree": "expanded_clustalo_guide_tree.dnd",
+    "phylotree": "expanded_clustalo_tree.newick",
+    "pim": "expanded_clustalo_percent_identity.txt",
+    "matrix": "expanded_clustalo_distance_matrix.txt",
+    "submission": "expanded_clustalo_submission.xml"
+  }
+}
