@@ -31,4 +31,4 @@ python analysis_package/code/advanced_analysis.py
 
 The archived record provides downloadable citation formats:
 
-https://doi.org/10.5281/zenodo.22259415
+https://doi.org/10.5281/zenodo.22260427

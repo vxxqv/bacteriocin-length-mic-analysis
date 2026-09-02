@@ -16,4 +16,4 @@ This release presents the final reproducible analysis package and publication fi
 - The README and archive metadata now point to the current Zenodo record.
 - Manuscript and submission documents remain outside the repository.
 
-Archive and citation formats: https://doi.org/10.5281/zenodo.22259415
+Archive and citation formats: https://doi.org/10.5281/zenodo.22260427
