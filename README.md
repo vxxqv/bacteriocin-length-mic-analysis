@@ -1,8 +1,8 @@
 # Bacteriocin protein architecture and MIC analysis
 
-This repository contains the data, sequences, bioinformatics outputs, code, tables, and figures for a study of bacteriocin protein architecture and minimum inhibitory concentration.
+This repository contains the data, sequences, bioinformatics outputs, code, tables, and final figures for an analysis of bacteriocin protein architecture and minimum inhibitory concentration.
 
-The dataset includes 47 MIC observations for 22 sequence-validated bacteriocins from nine studies. Pooled interval models linked greater total length, global disorder, N-terminal disorder, and functional-domain charge with lower MIC after false-discovery-rate correction. Family, assay, study, and held-out-protein checks show why these associations should be tested experimentally before they are treated as independent predictors.
+The dataset includes 47 MIC observations for 22 sequence-validated bacteriocins from nine studies. In the pooled analysis, greater total length, global disorder, N-terminal disorder, and functional-domain charge were associated with lower MIC after false-discovery-rate correction. Additional analyses examined the effects of protein family, assay type, source study, and held-out proteins.
 
 ## Files
 
@@ -12,13 +12,13 @@ The dataset includes 47 MIC observations for 22 sequence-validated bacteriocins 
 │   ├── bioinformatics    Clustal Omega and InterProScan outputs with provenance
 │   ├── code              Reproducible analysis and tool-refresh scripts
 │   ├── data              Validated sequences and analysis inputs
-│   ├── figures           Source plots and final paneled publication figures
+│   ├── figures           Final numbered figures and editable Figure 1 PowerPoint
 │   └── tables            MIC data, accessions, model results, and source ledger
 ├── .zenodo.json          Archive metadata
 ├── CITATION.cff          Citation metadata
 ├── LICENSE.txt
 ├── README.md
-└── RELEASE_NOTES_v1.2.1.md
+└── RELEASE_NOTES_v1.1.0.md
 ```
 
 ## Run
