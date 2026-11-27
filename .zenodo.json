@@ -1,6 +1,6 @@
 {
   "title": "Bacteriocin protein architecture and minimum inhibitory concentration analysis",
-  "description": "Data, validated sequences, bioinformatics outputs, figures, and reproducible code for an interval-aware analysis of bacteriocin protein architecture and minimum inhibitory concentration. The study includes 47 observations from 22 proteins and evaluates pooled associations alongside family, assay, study, robustness, and held-out-protein analyses.",
+  "description": "Source data, accession-checked sequences, bioinformatics outputs, figures, and reproducible code for bacteriocin activity analyses. This version adds a six-pyocin, 29-isolate panel, separate published L-pyocin and S6 cohorts, and IUPred3, InterProScan, Clustal Omega, and Biopython sequence comparisons. MIC, inhibition-zone, spot-response, and biofilm outcomes are kept separate.",
   "upload_type": "software",
   "access_right": "open",
   "language": "eng",
@@ -22,8 +22,10 @@
     "intrinsic disorder",
     "IUPred3",
     "InterProScan",
-    "Clustal Omega"
+    "Clustal Omega",
+    "target specificity",
+    "pyocin"
   ],
   "license": "mit",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
