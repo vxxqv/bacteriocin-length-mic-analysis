@@ -1,0 +1,111 @@
+{
+  "mic_sum_squares": [
+    {
+      "component": "protein",
+      "sum_squares": 0.342943128008553,
+      "share_of_total_percent": 26.03840005572991
+    },
+    {
+      "component": "strain",
+      "sum_squares": 0.7314041790939622,
+      "share_of_total_percent": 55.532807227460594
+    },
+    {
+      "component": "protein_by_strain_plus_error",
+      "sum_squares": 0.24271951449386903,
+      "share_of_total_percent": 18.42879271680952
+    }
+  ],
+  "mic_l3_to_l2_ratios": {
+    "P. aeruginosa CFPA120": 0.156957928802589,
+    "P. aeruginosa CFPA124": 0.22330097087378642,
+    "P. aeruginosa CFPA13": 0.5,
+    "P. aeruginosa CFPA22": 1.2588996763754046
+  },
+  "conditional_logit": [
+    {
+      "definition": "published_counting",
+      "protein": "PyoL2",
+      "reference": "PyoL1",
+      "informative_isolates": 95,
+      "test": "coefficient_wald",
+      "log_odds_coefficient": 0.2689726105663527,
+      "likelihood_ratio_chisq": null,
+      "odds_ratio": 1.3086192982141733,
+      "ci95_low": 0.7584501441083477,
+      "ci95_high": 2.2578734818117727,
+      "p_value": 0.3337955052477055
+    },
+    {
+      "definition": "published_counting",
+      "protein": "PyoL3",
+      "reference": "PyoL1",
+      "informative_isolates": 95,
+      "test": "coefficient_wald",
+      "log_odds_coefficient": 1.3607713019798118,
+      "likelihood_ratio_chisq": null,
+      "odds_ratio": 3.899199602636475,
+      "ci95_low": 2.2555604703182826,
+      "ci95_high": 6.740567473704235,
+      "p_value": 1.1020636959163636e-06
+    },
+    {
+      "definition": "published_counting",
+      "protein": "joint_model",
+      "reference": "PyoL1",
+      "informative_isolates": 95,
+      "test": "likelihood_ratio_2df",
+      "log_odds_coefficient": null,
+      "likelihood_ratio_chisq": 30.688273914493323,
+      "odds_ratio": null,
+      "ci95_low": null,
+      "ci95_high": null,
+      "p_value": 2.168333052350528e-07
+    },
+    {
+      "definition": "strict_plus_only",
+      "protein": "PyoL2",
+      "reference": "PyoL1",
+      "informative_isolates": 79,
+      "test": "coefficient_wald",
+      "log_odds_coefficient": 0.35837061500501144,
+      "likelihood_ratio_chisq": null,
+      "odds_ratio": 1.4309958707562858,
+      "ci95_low": 0.8199241165783925,
+      "ci95_high": 2.497486219416204,
+      "p_value": 0.2072281079944709
+    },
+    {
+      "definition": "strict_plus_only",
+      "protein": "PyoL3",
+      "reference": "PyoL1",
+      "informative_isolates": 79,
+      "test": "coefficient_wald",
+      "log_odds_coefficient": 0.39415150780723923,
+      "likelihood_ratio_chisq": null,
+      "odds_ratio": 1.4831252367058023,
+      "ci95_low": 0.8514926017227904,
+      "ci95_high": 2.583299565143794,
+      "p_value": 0.16387889784604792
+    },
+    {
+      "definition": "strict_plus_only",
+      "protein": "joint_model",
+      "reference": "PyoL1",
+      "informative_isolates": 79,
+      "test": "likelihood_ratio_2df",
+      "log_odds_coefficient": null,
+      "likelihood_ratio_chisq": 2.3641385271362196,
+      "odds_ratio": null,
+      "ci95_low": null,
+      "ci95_high": null,
+      "p_value": 0.3066435553095581
+    }
+  ],
+  "diversity": {
+    "observed_raw_signatures": 14,
+    "possible_raw_signatures": 27,
+    "shannon_bits": 2.932560539843288,
+    "effective_number_of_signatures": 7.634642166190461
+  }
+}

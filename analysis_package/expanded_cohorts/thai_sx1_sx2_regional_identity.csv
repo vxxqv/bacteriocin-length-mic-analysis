@@ -1,0 +1,3 @@
+sx1_region,analysis,signature,sx1_start,sx1_end,region_length_aa,paired_alignment_columns,identical_paired_columns,sx2_gap_columns,identity_percent_among_paired_columns
+translocation,Pfam,PF06958,410,549,140,140,135,0,96.42857142857143
+terminal DNase annotation,Gene3D,G3DSA:3.90.540.10,555,684,130,103,19,27,18.446601941747574

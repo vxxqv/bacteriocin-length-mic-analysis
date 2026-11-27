@@ -1,0 +1,12 @@
+doi,target_strain,assay_group,family,records,proteins,exact,interval,right_censored,distinct_lengths,protein_names
+10.1002/mbo3.210,P. aeruginosa Bu007,kinetic broth MIC,lectin-like,2,2,1,0,1,1,Pyocin L1; Pyocin L2
+10.1002/mbo3.210,P. aeruginosa CFPA101,kinetic broth MIC,lectin-like,2,2,0,0,2,2,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA120,kinetic broth MIC,lectin-like,2,2,2,0,0,2,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA124,kinetic broth MIC,lectin-like,2,2,2,0,0,2,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA13,kinetic broth MIC,lectin-like,2,2,2,0,0,2,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA22,kinetic broth MIC,lectin-like,3,3,2,0,1,2,Pyocin L1; Pyocin L2; Pyocin L3
+10.1038/s41598-019-51969-1,K. pneumoniae DSM16358,microbroth dilution,ColM-like,3,3,3,0,0,3,KpneM; KpneM2; KvarM
+10.1038/s41598-019-51969-1,K. variicola DSM15968,microbroth dilution,ColM-like,2,2,2,0,0,2,KpneM; KvarM
+10.1038/s41598-019-51969-1,K. variicola DSM15968,microbroth dilution,pore-forming,3,3,3,0,0,3,KaerA; KpneA; KvarIa
+10.1111/j.1365-2958.2009.06788.x,E. coli K-12 BW25113,spot titer MIC,nuclease,4,4,0,4,0,4,Colicin D; Colicin E2; Colicin E3; Colicin E7
+10.1111/j.1365-2958.2009.06788.x,E. coli K-12 BW25113,spot titer MIC,pore-forming,4,4,0,4,0,4,Colicin A; Colicin B; Colicin E1; Colicin N

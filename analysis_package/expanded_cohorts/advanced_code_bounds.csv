@@ -1,0 +1,8 @@
+proteins,number_of_proteins,strict_plus_lower,plus_or_t_upper,uncertain_isolates
+PyoL1,1,27,30,3
+PyoL2,1,36,37,1
+PyoL3,1,37,71,34
+PyoL1+PyoL2,2,61,63,2
+PyoL1+PyoL3,2,62,91,29
+PyoL2+PyoL3,2,56,79,23
+PyoL1+PyoL2+PyoL3,3,80,98,18

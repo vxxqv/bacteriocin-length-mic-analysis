@@ -1,0 +1,4 @@
+first,second,n_paired_numeric_mic,second_mic_higher,second_mic_lower,mic_ties,second_mic_higher_fraction_non_ties,second_mic_higher_exact_ci_low,second_mic_higher_exact_ci_high,median_second_over_first_mic,mic_exact_sign_p,first_only_zone_response,second_only_zone_response,response_exact_mcnemar_p,mic_holm_p_three_pairs,response_holm_p_three_pairs
+AP41,SX1,24,10,9,5,0.5263157894736842,0.28864324791699886,0.7555253105338039,1.0,1.0,3,2,1.0,1.0,1.0
+AP41,SX2,18,18,0,0,1.0,0.8146980318621478,1.0,16.025641025641026,7.62939453125e-06,9,2,0.0654296875,2.288818359375e-05,0.1962890625
+SX1,SX2,19,14,3,2,0.8235294117647058,0.5656821271557161,0.962014931929374,4.006410256410256,0.012725830078125,7,1,0.0703125,0.02545166015625,0.1962890625

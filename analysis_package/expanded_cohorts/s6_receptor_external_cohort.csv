@@ -1,0 +1,7 @@
+receptor_category,resistant,sensitive,n,sensitive_fraction
+FpvAI,0,2,2,1.0
+FpvAI + FpvB,23,11,34,0.3235294117647059
+FpvAIIb,20,0,20,0.0
+FpvAIIb + FpvB,16,7,23,0.30434782608695654
+FpvAIII,0,1,1,1.0
+FpvAIII + FpvB,29,1,30,0.03333333333333333

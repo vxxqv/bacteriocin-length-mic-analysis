@@ -1,0 +1,15 @@
+{
+  "source_doi": "10.1002/mbo3.210",
+  "pmcid": "PMC4263511",
+  "source_file": "Ghequire_2014_Table_S1.xlsx",
+  "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4263511/supplementaryFiles",
+  "sha256": "1dc915c57866cb464d7dd6ecd158ab6e823562cde44d0402de429d47f2b2ca3f",
+  "sheet": "Sheet1",
+  "header_row_one_based": 3,
+  "raw_codes": [
+    "+",
+    "T",
+    "-"
+  ],
+  "analysis_note": "The published positive totals include + and T. Strict-plus-only is reported as a sensitivity analysis because the supplementary spreadsheet does not define T."
+}

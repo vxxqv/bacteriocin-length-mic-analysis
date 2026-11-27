@@ -1,0 +1,11 @@
+doi,study,endpoint_checked,decision,reason
+10.1002/mbo3.210,Ghequire et al. 2014,24-hour Bioscreen MIC for three L-type pyocins,Included,Numeric MICs and common protocol across selected Pseudomonas strains
+10.1002/mbo3.210,Ghequire et al. 2014 Table S1,Spot-assay response codes for 150 P. aeruginosa isolates,Included as separate endpoint,Same isolates tested against three pyocins; raw + T and - codes retained without converting to MIC
+10.1038/s41598-019-51969-1,Denkovskiene et al. 2019,Microbroth MIC for six purified klebicins,Included,Numeric MICs for two Klebsiella strains and common within-study protocol
+10.1111/j.1365-2958.2009.06788.x,Sharma et al. 2009,Spot-titer MIC intervals for eight colicins,Included for coverage only,Matched target but reported as intervals and not used in exact-value comparison
+10.1371/journal.pone.0185782,Paskevicius et al. 2017,MIC for pyocin S5 and PaeM4,Excluded from within-family comparisons,Same target but different protein families
+10.1042/BCJ20160470,McCaughey et al. 2016,Overlay spot activity of wild-type pyocin S2 and N-terminal deletion,Mechanistic context only,Compared activities are not a matched MIC series
+10.1038/s41467-026-74995-w,Munder et al. 2026,Growth-curve IC50 and plate inhibition for L-type pyocins,Mechanistic context only,IC50 and plate inhibition were not combined with MIC
+10.1128/aac.01312-25,Second-generation lysocin study 2025,Engineered fusion-protein MIC panel,Not pooled with native bacteriocins,Engineered constructs and receptor modules answer a different intervention question
+10.7717/peerj.21850,Laosena et al. 2026,Triplicate spot zones plus spot-dilution MIC and biofilm measures,Included as separate cohort,Shared 29-isolate six-protein zone panel and raw measurements available; endpoints kept separate from prior broth MICs
+10.1002/mbo3.339,Dingemans et al. 2016,One S6 MIC and receptor-stratified spot responses for 110 isolates,Included as aggregate target context only,Single-protein MIC cannot identify length effect; published receptor counts retained separately

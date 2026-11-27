@@ -1,0 +1,9 @@
+{
+  "n_proteins": 6,
+  "n_response_pairs": 15,
+  "sequence_identity_response_overlap_spearman": 0.5678571428571427,
+  "exact_label_permutation_p": 0.10833333333333334,
+  "n_permutations": 720,
+  "length_disorder_fraction_spearman": 0.942857142857143,
+  "feature_screen_q_method": "Benjamini-Hochberg across six sequence features"
+}

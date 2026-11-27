@@ -1,0 +1,17 @@
+{
+  "L1": {
+    "raw_sha256": "893f17a10022096f0d3caf64607e59f4debe30233887f34975cce2525e9ff26c",
+    "residues": 256,
+    "mode": "long"
+  },
+  "L2": {
+    "raw_sha256": "76f392f855240490bbb99fe64e8496a5dd2cb75e9f8f85e568339e2c65bbed57",
+    "residues": 256,
+    "mode": "long"
+  },
+  "L3": {
+    "raw_sha256": "444268f465e02c236a9dcc6fdb08f7eff0e4effa6c6145fcc5e76c8813c6a97b",
+    "residues": 290,
+    "mode": "long"
+  }
+}

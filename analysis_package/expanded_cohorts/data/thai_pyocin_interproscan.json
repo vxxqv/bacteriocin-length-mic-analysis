@@ -1,0 +1,2098 @@
+{
+ "interproscan-version": "5.78-109.0",
+"results": [ {
+  "sequence" : "MSNIENPMIIYADGTVDVGPGKGGGNSAYSPRIITDHHGSGYQPPTEENWLVNYNFARKPLDEQYKTALASWESNIQKEVDSAVAKLGPQTGLSETQKLDNILKVIQSLIDQKTIGLKANQAILAKYPGVDFKNSTMKDFQRRYFNNEIPYENPFEVLLDEEMTAVVASYNVDIFNKAIQNLKARQELIAVRKIQIKMEADYKASKANIEKKVQSELDQAGNALAPLNNPTPEQWLERATQLVTQAIANKKKLQTANNALIAKAPNALEKQKATYNADLLVDEIASLQARLDKLNAETARRQEIARQAAIRAANTYAMPANGNIVVTIAGRGLIQVAQGAASLAQAISDAIAALGRVLASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDASKLGLPSSVNLNAVAKAGGTVDLPMRLTNEARGNTTTLSVVSTDGVSVPKAVPVRMAAYNATTGLYEVTVPSTTAEAPPLILTWTPVSPPGNQNPSSITPVVPKPVPVYEGATLTPVKATPETYPGVITLPEDLIIGFPADSGIKPIYVMFNSPYGETNARGKYSGRDYNTEKAGGPILDLDWRTAKIDRAGVDKVKLHTGRFGVSADNTVMIDRLERILKGELQITDTDKRFYTHEIRELERYRNLGVKDGERPKNRTEVWNNTHTATLEDYKINEKTQPLYTVEAEEAYRKAEEGK",
+  "md5" : "16313094b20248e2ddc5ebcf3285bcc5",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF69369",
+      "name" : "Cloacin translocation domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036302",
+        "name" : "Pyosin/cloacin_T_dom_sf",
+        "description" : "Pyosin/cloacin translocation domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 316,
+      "end" : 575,
+      "representative" : true,
+      "hmmLength" : 232,
+      "location-fragments" : [ {
+        "start" : 316,
+        "end" : 575,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.05E-52,
+    "model-ac" : "0039480"
+  }, {
+    "signature" : {
+      "accession" : "PR01300",
+      "name" : "PYOCINKILLER",
+      "description" : "Pyocin S killer protein signature",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR003060",
+        "name" : "Pyocin_killer",
+        "description" : "Pyocin S killer protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        }, {
+          "name" : "cytolysis",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0019835"
+        }, {
+          "name" : "signaling receptor binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005102"
+        }, {
+          "name" : "response to bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0009617"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 442,
+      "end" : 460,
+      "representative" : false,
+      "pvalue" : 3.19E-14,
+      "score" : 100.0,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 442,
+        "end" : 460,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 545,
+      "end" : 564,
+      "representative" : false,
+      "pvalue" : 0.0382,
+      "score" : 35.0,
+      "motifNumber" : 6,
+      "location-fragments" : [ {
+        "start" : 545,
+        "end" : 564,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 335,
+      "end" : 355,
+      "representative" : false,
+      "pvalue" : 5.22E-15,
+      "score" : 95.24,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 335,
+        "end" : 355,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 391,
+      "end" : 414,
+      "representative" : false,
+      "pvalue" : 1.11E-16,
+      "score" : 91.67,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 391,
+        "end" : 414,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 308,
+      "end" : 329,
+      "representative" : false,
+      "pvalue" : 1.57E-14,
+      "score" : 81.82,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 308,
+        "end" : 329,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 356,
+      "end" : 374,
+      "representative" : false,
+      "pvalue" : 1.85E-14,
+      "score" : 100.0,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 356,
+        "end" : 374,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.4E-67,
+    "graphscan" : "IIIIII....",
+    "model-ac" : "PR01300"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 277,
+      "end" : 304,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 277,
+        "end" : 304,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "PF06958",
+      "name" : "Pyocin_S",
+      "description" : "S-type Pyocin",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR016128",
+        "name" : "Pyosin/cloacin_T_dom",
+        "description" : "Pyosin/cloacin translocation domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 409,
+      "end" : 548,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 139,
+      "hmmLength" : 139,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.8E-33,
+      "score" : 127.3,
+      "envelopeStart" : 409,
+      "envelopeEnd" : 548,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 409,
+        "end" : 548,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.4E-34,
+    "score" : 128.2,
+    "model-ac" : "PF06958"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 236,
+      "end" : 256,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 236,
+        "end" : 256,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  } ],
+  "xref" : [ {
+    "name" : "UYS84545.1 pyocin SX2 [Expression vector pSX2-ImSX2]",
+    "id" : "UYS84545.1"
+  } ]
+},{
+  "sequence" : "MSNDNEVPGSMVIVAQGPDDQYAYEVPPIDSAAVAGNMFGDLIQREIYLQKNIYYPVRSIFEQGTKEKKEINKKVSDQVDGLLKQITQGKREATRQERVDVMSAVLHKMESDLEGYKKTFTKGPFIDYEKQSSLSIYEAWVKIWEKNSWEERKKYPFQQLVRDELERAVAYYKQDSLSEAVKVLRQELNKQKALKEKEDLSQLERDYRTRKANLEMKVQSELDQAGSALPPLVSPTPEQWLERATRLVTQAIADKKQLQTTNNTLIKNSPTPLEKQKAIYNGELLVDEIASLQARLVKLNAETTRRRTEAERKAAEEQALQDAIKFTADFYKEVTEKFGARTSEMARQLAEGARGKNIRSSAEAIKSFEKHKDALNKKLSLKDRQAIAKAFDSLDKQMMAKSLEKFSKGFGVVGKAIDAASLYQEFKISTETGDWKPFFVKIETLAAGAAASWLVGIAFATATATPIGILGFALVMAVTGAMIDEDLLEKANNLVISI",
+  "md5" : "53a5bc684c87af29609b8b39b36c977e",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 453,
+      "end" : 478,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 453,
+        "end" : 478,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "PF01024",
+      "name" : "Colicin",
+      "description" : "Colicin pore forming domain",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR000293",
+        "name" : "Channel_colicin_C",
+        "description" : "Channel forming colicin, C-terminal cytotoxic",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "defense response to Gram-negative bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0050829"
+        }, {
+          "name" : "killing of cells of another organism",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0031640"
+        }, {
+          "name" : "membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016020"
+        }, {
+          "name" : "pore-forming activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0140911"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 310,
+      "end" : 494,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 185,
+      "hmmLength" : 185,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.4E-121,
+      "score" : 413.5,
+      "envelopeStart" : 310,
+      "envelopeEnd" : 494,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 310,
+        "end" : 494,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.4E-121,
+    "score" : 413.5,
+    "model-ac" : "PF01024"
+  }, {
+    "signature" : {
+      "accession" : "PR00280",
+      "name" : "CHANLCOLICIN",
+      "description" : "Channel forming colicin signature",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR000293",
+        "name" : "Channel_colicin_C",
+        "description" : "Channel forming colicin, C-terminal cytotoxic",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "defense response to Gram-negative bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0050829"
+        }, {
+          "name" : "killing of cells of another organism",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0031640"
+        }, {
+          "name" : "membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016020"
+        }, {
+          "name" : "pore-forming activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0140911"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 355,
+      "end" : 370,
+      "representative" : false,
+      "pvalue" : 1.46E-6,
+      "score" : 51.36,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 355,
+        "end" : 370,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 446,
+      "end" : 464,
+      "representative" : false,
+      "pvalue" : 1.25E-4,
+      "score" : 29.75,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 446,
+        "end" : 464,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 432,
+      "end" : 445,
+      "representative" : false,
+      "pvalue" : 4.78E-6,
+      "score" : 53.11,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 432,
+        "end" : 445,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 374,
+      "end" : 390,
+      "representative" : false,
+      "pvalue" : 9.78E-8,
+      "score" : 54.22,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 374,
+        "end" : 390,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-16,
+    "graphscan" : "IIIi",
+    "model-ac" : "PR00280"
+  }, {
+    "signature" : {
+      "accession" : "SSF56837",
+      "name" : "Colicin",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 220,
+      "end" : 497,
+      "representative" : true,
+      "hmmLength" : 297,
+      "location-fragments" : [ {
+        "start" : 220,
+        "end" : 497,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.57E-81,
+    "model-ac" : "0034942"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 452,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 452,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 174,
+      "end" : 194,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 174,
+        "end" : 194,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 479,
+      "end" : 498,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 479,
+        "end" : 498,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.10.490.30",
+      "name" : "Colicin",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR038283",
+        "name" : "Channel_colicin_C_sf",
+        "description" : "Channel forming colicin, C-terminal domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 290,
+      "end" : 497,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 220,
+      "hmmLength" : 221,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-70,
+      "score" : 238.4,
+      "envelopeStart" : 290,
+      "envelopeEnd" : 497,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 290,
+        "end" : 497,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-70,
+    "score" : 238.4,
+    "model-ac" : "1rh1A02"
+  }, {
+    "signature" : {
+      "accession" : "PS00276",
+      "name" : "CHANNEL_COLICIN",
+      "description" : "Channel forming colicins signature.",
+      "type" : "CONSERVED_SITE",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2026_01"
+      },
+      "entry" : {
+        "accession" : "IPR000293",
+        "name" : "Channel_colicin_C",
+        "description" : "Channel forming colicin, C-terminal cytotoxic",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "defense response to Gram-negative bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0050829"
+        }, {
+          "name" : "killing of cells of another organism",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0031640"
+        }, {
+          "name" : "membrane",
+          "databaseName" : "GO",
+          "category" : "CELLULAR_COMPONENT",
+          "id" : "GO:0016020"
+        }, {
+          "name" : "pore-forming activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0140911"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 432,
+      "end" : 443,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M2I1M1I4M2I1M",
+      "alignment" : "TgdWkPFFVkiE",
+      "location-fragments" : [ {
+        "start" : 432,
+        "end" : 443,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00276"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 197,
+      "end" : 217,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 197,
+        "end" : 217,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 453,
+      "end" : 475,
+      "representative" : false,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 453,
+        "end" : 475,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 241,
+      "end" : 261,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 241,
+        "end" : 261,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 282,
+      "end" : 320,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 282,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  } ],
+  "xref" : [ {
+    "name" : "WP_003115311.1 colicin-like pore-forming protein [Pseudomonas aeruginosa]",
+    "id" : "WP_003115311.1"
+  } ]
+},{
+  "sequence" : "MSNIENPMIIYGDGTVEVGPGKGPGNNGRPLTTIITDHHSSNYRPADETEWLNFYNSGRKPLDEQYKTAQKSLAERVQKEVDSAIAALGPQDKLSESQRLDNTSKAIQSMIDQKTKDLKANEAILAKYPGVDFKTSTVKDFQRRFYENKKPYDEAFYVMLDQELTAIAAAYNSEILKEAIKNLKFRKDLMAVRKIQIKMETDYKASKANIEKKVQSELDQAGNALPPLNNPTPEQWLERATQLVTQAIANKKKLQTANNALIAKAPNALEKQKATYNADLLVDEIASLQARLDKLNAETARRQEIARQAAIRAANTYAMPANGNIVVTAAGRGLIQVAQGAASLAQAISDAIAVLGRVLASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDASKLGLPPSVNLNAVAKAGGTVDLPMRLTNEARGNTTTLSVVSTDGVSVPKAVPVRMAAYNAATGLYEVTVPSTTAEAPPLILTWTPASPPGNQNPSSTTPVVPKPVPVYEGATLTPVKAAPETYPGVITLPDDLIIGFPADSGIKPIYVMFRDPRDVPGTATGKGQPVSGNWLGAASQGQGAPIPTQIADKLRGRKFANFDAFRKALWTEVGKDTELLKQFKSQNKTNVTKGKSPFVPESGRVGGRQRFELHHVKQIKNNGAVYDVDNIRVTTPKRHIDIHKEGK",
+  "md5" : "bdde60ac2a5cadf172f07768241ac3f5",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PR01300",
+      "name" : "PYOCINKILLER",
+      "description" : "Pyocin S killer protein signature",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR003060",
+        "name" : "Pyocin_killer",
+        "description" : "Pyocin S killer protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        }, {
+          "name" : "cytolysis",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0019835"
+        }, {
+          "name" : "signaling receptor binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005102"
+        }, {
+          "name" : "response to bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0009617"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 357,
+      "end" : 375,
+      "representative" : false,
+      "pvalue" : 1.83E-14,
+      "score" : 100.0,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 357,
+        "end" : 375,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 336,
+      "end" : 356,
+      "representative" : false,
+      "pvalue" : 9.99E-16,
+      "score" : 100.0,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 336,
+        "end" : 356,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 601,
+      "end" : 620,
+      "representative" : false,
+      "pvalue" : 2.82E-5,
+      "score" : 50.0,
+      "motifNumber" : 8,
+      "location-fragments" : [ {
+        "start" : 601,
+        "end" : 620,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 443,
+      "end" : 461,
+      "representative" : false,
+      "pvalue" : 2.07E-13,
+      "score" : 94.74,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 443,
+        "end" : 461,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 309,
+      "end" : 330,
+      "representative" : false,
+      "pvalue" : 2.11E-15,
+      "score" : 86.36,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 309,
+        "end" : 330,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 579,
+      "end" : 600,
+      "representative" : false,
+      "pvalue" : 3.85E-10,
+      "score" : 68.18,
+      "motifNumber" : 7,
+      "location-fragments" : [ {
+        "start" : 579,
+        "end" : 600,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 624,
+      "end" : 641,
+      "representative" : false,
+      "pvalue" : 0.0818,
+      "score" : 27.78,
+      "motifNumber" : 9,
+      "location-fragments" : [ {
+        "start" : 624,
+        "end" : 641,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 392,
+      "end" : 415,
+      "representative" : false,
+      "pvalue" : 1.0E-16,
+      "score" : 95.83,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 392,
+        "end" : 415,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 662,
+      "end" : 681,
+      "representative" : false,
+      "pvalue" : 6.31E-9,
+      "score" : 60.0,
+      "motifNumber" : 10,
+      "location-fragments" : [ {
+        "start" : 662,
+        "end" : 681,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 546,
+      "end" : 565,
+      "representative" : false,
+      "pvalue" : 4.88E-15,
+      "score" : 95.0,
+      "motifNumber" : 6,
+      "location-fragments" : [ {
+        "start" : 546,
+        "end" : 565,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.0E-105,
+    "graphscan" : "IIIIIIIIiI",
+    "model-ac" : "PR01300"
+  }, {
+    "signature" : {
+      "accession" : "PF06958",
+      "name" : "Pyocin_S",
+      "description" : "S-type Pyocin",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR016128",
+        "name" : "Pyosin/cloacin_T_dom",
+        "description" : "Pyosin/cloacin translocation domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 410,
+      "end" : 549,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 139,
+      "hmmLength" : 139,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.2E-34,
+      "score" : 131.2,
+      "envelopeStart" : 410,
+      "envelopeEnd" : 549,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 410,
+        "end" : 549,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.0E-35,
+    "score" : 132.1,
+    "model-ac" : "PF06958"
+  }, {
+    "signature" : {
+      "accession" : "SSF69369",
+      "name" : "Cloacin translocation domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036302",
+        "name" : "Pyosin/cloacin_T_dom_sf",
+        "description" : "Pyosin/cloacin translocation domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 317,
+      "end" : 578,
+      "representative" : true,
+      "hmmLength" : 232,
+      "location-fragments" : [ {
+        "start" : 317,
+        "end" : 578,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-55,
+    "model-ac" : "0039480"
+  }, {
+    "signature" : {
+      "accession" : "PF21431",
+      "name" : "Col-Pyo_DNase",
+      "description" : "Colicin/Pyocin-S2, DNase domain",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 558,
+      "end" : 681,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 124,
+      "hmmLength" : 124,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.6E-51,
+      "score" : 184.2,
+      "envelopeStart" : 558,
+      "envelopeEnd" : 681,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 558,
+        "end" : 681,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.6E-51,
+    "score" : 184.2,
+    "model-ac" : "PF21431"
+  }, {
+    "signature" : {
+      "accession" : "SSF54060",
+      "name" : "His-Me finger endonucleases",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR044925",
+        "name" : "His-Me_finger_sf",
+        "description" : "His-Me finger superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 550,
+      "end" : 680,
+      "representative" : false,
+      "hmmLength" : 131,
+      "location-fragments" : [ {
+        "start" : 550,
+        "end" : 680,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.06E-49,
+    "model-ac" : "0037092"
+  }, {
+    "signature" : {
+      "accession" : "cd00085",
+      "name" : "HNHc",
+      "description" : "HNHc",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR003615",
+        "name" : "HNH_nuc",
+        "description" : "HNH nuclease",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 640,
+      "end" : 680,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "active site",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 668,
+          "end" : 668,
+          "residue" : "I"
+        }, {
+          "start" : 649,
+          "end" : 649,
+          "residue" : "E"
+        }, {
+          "start" : 652,
+          "end" : 652,
+          "residue" : "H"
+        }, {
+          "start" : 676,
+          "end" : 676,
+          "residue" : "H"
+        }, {
+          "start" : 667,
+          "end" : 667,
+          "residue" : "N"
+        }, {
+          "start" : 673,
+          "end" : 673,
+          "residue" : "P"
+        }, {
+          "start" : 655,
+          "end" : 655,
+          "residue" : "Q"
+        }, {
+          "start" : 653,
+          "end" : 653,
+          "residue" : "V"
+        }, {
+          "start" : 680,
+          "end" : 680,
+          "residue" : "H"
+        }, {
+          "start" : 651,
+          "end" : 651,
+          "residue" : "H"
+        }, {
+          "start" : 672,
+          "end" : 672,
+          "residue" : "T"
+        } ]
+      } ],
+      "evalue" : 2.08885E-5,
+      "score" : 40.918,
+      "location-fragments" : [ {
+        "start" : 640,
+        "end" : 680,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00085"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 278,
+      "end" : 305,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 278,
+        "end" : 305,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.90.540.10",
+      "name" : "Colicin/pyocin, DNase domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR037146",
+        "name" : "Colicin/pyocin_DNase_dom_sf",
+        "description" : "Colicin/pyocin, DNase domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 555,
+      "end" : 684,
+      "representative" : true,
+      "hmmStart" : 3,
+      "hmmEnd" : 128,
+      "hmmLength" : 136,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.1E-57,
+      "score" : 195.5,
+      "envelopeStart" : 555,
+      "envelopeEnd" : 684,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 555,
+        "end" : 684,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.2E-58,
+    "score" : 196.8,
+    "model-ac" : "4uhqA00"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 237,
+      "end" : 257,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 237,
+        "end" : 257,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  } ],
+  "xref" : [ {
+    "name" : "UYS84543.1 pyocin SX1 [Expression vector pSX1-ImSX1]",
+    "id" : "UYS84543.1"
+  } ]
+},{
+  "sequence" : "MVMDLGTTTIVAGQGDFSAYNYGNNGANWPAPSPAQVGYISKGQRDVAYVNGDWEKPLLALWAQWANWGTTLYGYPSLPFPNYEFIWDIFDLPQADYNQFSLGDDRITAMNRAQNHQYPFPNNEGIPSWDRPKIDTFNGGVYTPAAAFAHYLTGKGKKMNFPIERLNIKPNVKAMPQFIGVLTSSPMGQTTVDFNVPYATAKDSWVAGNTVGEITLRIVGILVKSTSGQWSFRGEIRAYDDLYDFNPSNHRTETAEGMTRLGREVGQKFKDTTPYPIGIPGAIPVNISG",
+  "md5" : "fb0be5efd3f9436dd74b9fb76e28a58c",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.30.450.400",
+      "name" : "Colicin M, catalytic domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 160,
+      "end" : 289,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 130,
+      "hmmLength" : 138,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.8E-44,
+      "score" : 152.6,
+      "envelopeStart" : 160,
+      "envelopeEnd" : 289,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 160,
+        "end" : 289,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-44,
+    "score" : 153.0,
+    "model-ac" : "4g75A02"
+  }, {
+    "signature" : {
+      "accession" : "PF14859",
+      "name" : "Colicin_M",
+      "description" : "Colicin M",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR028056",
+        "name" : "Colicin_M",
+        "description" : "Colicin M",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "defense response to bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0042742"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 135,
+      "end" : 288,
+      "representative" : true,
+      "hmmStart" : 126,
+      "hmmEnd" : 278,
+      "hmmLength" : 281,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.7E-33,
+      "score" : 125.8,
+      "envelopeStart" : 128,
+      "envelopeEnd" : 289,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 135,
+        "end" : 288,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.4E-33,
+    "score" : 126.5,
+    "model-ac" : "PF14859"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1440.280",
+      "name" : "",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 158,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 158,
+      "hmmLength" : 158,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.1E-109,
+      "score" : 364.0,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 158,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 158,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-109,
+    "score" : 364.4,
+    "model-ac" : "4g75A01"
+  } ],
+  "xref" : [ {
+    "name" : "ERZ09841.1 hypothetical protein Q008_04386 [Pseudomonas aeruginosa JJ692]",
+    "id" : "ERZ09841.1"
+  } ]
+},{
+  "sequence" : "MSDVFDLGSMTTVATATGQYSFYTPPPPTPIPYLTYIARPGINKFDLPEGAKIKDLIKRYQYIGSQIPAAIMIRGVQEEIKKSTNTALANVGAIVDGELAYLASQKKEKLNPAEATPLQMASAEKAAAVELLASKQKELADARTIANAFFGYDPLTVNYVNVMNEIYGRREDKDFSFDNWSKSYSAAQKIRLIEAKISVLNSRSSALDGKVAELTRLQRLEDAQHAAEAARQTEAERLAQEQRQAEARRQAEEARRQAEAQRQAELQRLAEAEAKRVAEAEKKRQDEINARLQAIVVSESEAKRIEEIYKRLEEQDKISNPTVTTPPAVDAGSRVDDALAHTGTRVTSGGETGATGGSGRDVDTGTGQGGITARPVDVGSVSIPDRRDPKIPDQPRRDLGSLVPTFPDFPTFPSFPGVGVPAAAKPLIPAGGGAASVSRTLKTAVDLLSVARKTPGAMLGQVAAVVATMAVSSFWPKLNNGERQASFAIPVAELSPPLAVDWQAIAAAKGTVDLPYRLKTLNVDGSIQIIAVPTEPGSAAVPVRALTLDSASGTYKYTTTGPGGGTILVTPDTPPGQIDPSSSTPAVPRGPLIMPGTLLIPKEPQIESYPELDQREFNDGIYVYPEDSGIPPLYIVYRDPRDEPGVATGNGQPVTGNWLAGASQGDGVPIPSQIADQLRGKEFKSWRDFREQFWMAVSKDPSALENLSPSNRYFVSQGLAPYAVPEEHLGSKEKFEIHHVVPLESGGALYNIDNLVIVTPKRHSEIHKELKLKRKEK",
+  "md5" : "46453f19072462ecbf047590dec1ba1d",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SM00507",
+      "name" : "HNH_5",
+      "description" : null,
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR003615",
+        "name" : "HNH_nuc",
+        "description" : "HNH nuclease",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 709,
+      "end" : 764,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 74,
+      "hmmLength" : 74,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.9E-8,
+      "score" : 43.0,
+      "location-fragments" : [ {
+        "start" : 709,
+        "end" : 764,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.9E-8,
+    "score" : 43.0,
+    "model-ac" : "SM00507"
+  }, {
+    "signature" : {
+      "accession" : "SSF54060",
+      "name" : "His-Me finger endonucleases",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR044925",
+        "name" : "His-Me_finger_sf",
+        "description" : "His-Me finger superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 637,
+      "end" : 767,
+      "representative" : false,
+      "hmmLength" : 131,
+      "location-fragments" : [ {
+        "start" : 637,
+        "end" : 767,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.89E-50,
+    "model-ac" : "0037092"
+  }, {
+    "signature" : {
+      "accession" : "cd06503",
+      "name" : "ATP-synt_Fo_b",
+      "description" : "ATP-synt_Fo_b",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 216,
+      "end" : 305,
+      "representative" : true,
+      "sites" : [ ],
+      "evalue" : 3.95769E-8,
+      "score" : 50.8991,
+      "location-fragments" : [ {
+        "start" : 216,
+        "end" : 305,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd06503"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.90.540.10",
+      "name" : "Colicin/pyocin, DNase domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR037146",
+        "name" : "Colicin/pyocin_DNase_dom_sf",
+        "description" : "Colicin/pyocin, DNase domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 642,
+      "end" : 777,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 135,
+      "hmmLength" : 136,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.9E-56,
+      "score" : 190.5,
+      "envelopeStart" : 642,
+      "envelopeEnd" : 777,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 642,
+        "end" : 777,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-56,
+    "score" : 191.4,
+    "model-ac" : "4uhqA00"
+  }, {
+    "signature" : {
+      "accession" : "PF06958",
+      "name" : "Pyocin_S",
+      "description" : "S-type Pyocin",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR016128",
+        "name" : "Pyosin/cloacin_T_dom",
+        "description" : "Pyosin/cloacin translocation domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 502,
+      "end" : 636,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 139,
+      "hmmLength" : 139,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.4E-33,
+      "score" : 126.9,
+      "envelopeStart" : 502,
+      "envelopeEnd" : 636,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 502,
+        "end" : 636,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.4E-33,
+    "score" : 126.9,
+    "model-ac" : "PF06958"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 295,
+      "end" : 315,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 295,
+        "end" : 315,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "cd00085",
+      "name" : "HNHc",
+      "description" : "HNHc",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR003615",
+        "name" : "HNH_nuc",
+        "description" : "HNH nuclease",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 709,
+      "end" : 767,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "active site",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 754,
+          "end" : 754,
+          "residue" : "N"
+        }, {
+          "start" : 760,
+          "end" : 760,
+          "residue" : "P"
+        }, {
+          "start" : 740,
+          "end" : 740,
+          "residue" : "V"
+        }, {
+          "start" : 767,
+          "end" : 767,
+          "residue" : "H"
+        }, {
+          "start" : 738,
+          "end" : 738,
+          "residue" : "H"
+        }, {
+          "start" : 742,
+          "end" : 742,
+          "residue" : "P"
+        }, {
+          "start" : 755,
+          "end" : 755,
+          "residue" : "L"
+        }, {
+          "start" : 759,
+          "end" : 759,
+          "residue" : "T"
+        }, {
+          "start" : 736,
+          "end" : 736,
+          "residue" : "E"
+        }, {
+          "start" : 739,
+          "end" : 739,
+          "residue" : "H"
+        }, {
+          "start" : 763,
+          "end" : 763,
+          "residue" : "H"
+        } ]
+      } ],
+      "evalue" : 2.56848E-9,
+      "score" : 52.0887,
+      "location-fragments" : [ {
+        "start" : 709,
+        "end" : 767,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00085"
+  }, {
+    "signature" : {
+      "accession" : "SSF69369",
+      "name" : "Cloacin translocation domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036302",
+        "name" : "Pyosin/cloacin_T_dom_sf",
+        "description" : "Pyosin/cloacin translocation domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 407,
+      "end" : 666,
+      "representative" : true,
+      "hmmLength" : 303,
+      "location-fragments" : [ {
+        "start" : 407,
+        "end" : 666,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.46E-57,
+    "model-ac" : "0043232"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 236,
+      "end" : 261,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 236,
+        "end" : 261,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    }, {
+      "start" : 350,
+      "end" : 359,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 350,
+        "end" : 359,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Glycine-rich"
+    }, {
+      "start" : 344,
+      "end" : 400,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 344,
+        "end" : 400,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    }, {
+      "start" : 384,
+      "end" : 399,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 384,
+        "end" : 399,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    }, {
+      "start" : 236,
+      "end" : 259,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 236,
+        "end" : 259,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF21431",
+      "name" : "Col-Pyo_DNase",
+      "description" : "Colicin/Pyocin-S2, DNase domain",
+      "type" : "DOMAIN",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 645,
+      "end" : 768,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 124,
+      "hmmLength" : 124,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.8E-43,
+      "score" : 157.9,
+      "envelopeStart" : 645,
+      "envelopeEnd" : 768,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 645,
+        "end" : 768,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.5E-43,
+    "score" : 159.2,
+    "model-ac" : "PF21431"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 230,
+      "end" : 290,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 230,
+        "end" : 290,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "PR01300",
+      "name" : "PYOCINKILLER",
+      "description" : "Pyocin S killer protein signature",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR003060",
+        "name" : "Pyocin_killer",
+        "description" : "Pyocin S killer protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        }, {
+          "name" : "cytolysis",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0019835"
+        }, {
+          "name" : "signaling receptor binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005102"
+        }, {
+          "name" : "response to bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0009617"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 484,
+      "end" : 507,
+      "representative" : false,
+      "pvalue" : 0.0126,
+      "score" : 25.0,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 484,
+        "end" : 507,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 429,
+      "end" : 449,
+      "representative" : false,
+      "pvalue" : 6.44E-4,
+      "score" : 28.57,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 429,
+        "end" : 449,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 688,
+      "end" : 707,
+      "representative" : false,
+      "pvalue" : 3.52E-7,
+      "score" : 55.0,
+      "motifNumber" : 8,
+      "location-fragments" : [ {
+        "start" : 688,
+        "end" : 707,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 633,
+      "end" : 652,
+      "representative" : false,
+      "pvalue" : 1.21E-11,
+      "score" : 65.0,
+      "motifNumber" : 6,
+      "location-fragments" : [ {
+        "start" : 633,
+        "end" : 652,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 749,
+      "end" : 768,
+      "representative" : false,
+      "pvalue" : 1.75E-10,
+      "score" : 75.0,
+      "motifNumber" : 10,
+      "location-fragments" : [ {
+        "start" : 749,
+        "end" : 768,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 666,
+      "end" : 687,
+      "representative" : false,
+      "pvalue" : 2.41E-12,
+      "score" : 77.27,
+      "motifNumber" : 7,
+      "location-fragments" : [ {
+        "start" : 666,
+        "end" : 687,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.7E-39,
+    "graphscan" : ".i.i.III.I",
+    "model-ac" : "PR01300"
+  } ],
+  "xref" : [ {
+    "name" : "BAA02196.1 large component of pyocin AP41 [Pseudomonas aeruginosa]",
+    "id" : "BAA02196.1"
+  } ]
+},{
+  "sequence" : "MARPIADLIHFNSTTVTASGDVYYGPGGGTGIGPIARPIEHGLDSSTENGWQEFESYADLGVDPRRYVPLQVKEKRREIELQFRGAEKKLEASVQAELDKADAALGPAKNLAPLDVINRSLTIVGNALQQKNQKLLLNQKKITSLGAKNFLTRTAEEIGEQAVREGNINGPEAYMRFLDREMEGLTAAYNVKLFTEAISSLQIRMNTLTAAKASIEAAAANKAREQAAAEAKRKAEEQARQQAAIRAANTYAMPANGSVVATAAGRGLIQVAQGAASLAQAISDAIAVLGRVLASAPSVMAVGFASLTYSSRTAEQWQDQTPDSVRYALGMDANKLGLPSSVNLNAVAKAGGTVDLPMRLTNEARGSTTTLSVVSTDGVSVPKAVPVRMAAYNTATGLYEVTVPSTVAEAPPLILTWTPASPPGNQNPSSTTPVVPKPVAVYEGATLTPVKAKPETYPGVMTLPGDLIICFPADSGIKPVYVMFNSPYGETNAKGKYSGRNYNTDKAGGPILDLDWRTAKIDRAGVDKVKLHARRFESAPENIVMNDRLEKILKGELPVTDIDKRYYTHEIRELERYRNLGVKDGEIPKSVQEQKEVWNNAHTATLEDYKVNEREQPLYTAEALRAAYEKELKDALGGIR",
+  "md5" : "8a620ae2c6362d76e91d08e192393c98",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF69369",
+      "name" : "Cloacin translocation domain",
+      "description" : null,
+      "type" : "HOMOLOGOUS_SUPERFAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036302",
+        "name" : "Pyosin/cloacin_T_dom_sf",
+        "description" : "Pyosin/cloacin translocation domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 251,
+      "end" : 511,
+      "representative" : true,
+      "hmmLength" : 232,
+      "location-fragments" : [ {
+        "start" : 251,
+        "end" : 511,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.83E-51,
+    "model-ac" : "0039480"
+  }, {
+    "signature" : {
+      "accession" : "PR01300",
+      "name" : "PYOCINKILLER",
+      "description" : "Pyocin S killer protein signature",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR003060",
+        "name" : "Pyocin_killer",
+        "description" : "Pyocin S killer protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ {
+          "name" : "endonuclease activity",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0004519"
+        }, {
+          "name" : "cytolysis",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0019835"
+        }, {
+          "name" : "signaling receptor binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005102"
+        }, {
+          "name" : "response to bacterium",
+          "databaseName" : "GO",
+          "category" : "BIOLOGICAL_PROCESS",
+          "id" : "GO:0009617"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 270,
+      "end" : 290,
+      "representative" : false,
+      "pvalue" : 8.88E-16,
+      "score" : 100.0,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 270,
+        "end" : 290,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 326,
+      "end" : 349,
+      "representative" : false,
+      "pvalue" : 2.22E-16,
+      "score" : 91.67,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 326,
+        "end" : 349,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 480,
+      "end" : 499,
+      "representative" : false,
+      "pvalue" : 0.0508,
+      "score" : 30.0,
+      "motifNumber" : 6,
+      "location-fragments" : [ {
+        "start" : 480,
+        "end" : 499,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 243,
+      "end" : 264,
+      "representative" : false,
+      "pvalue" : 1.11E-16,
+      "score" : 100.0,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 243,
+        "end" : 264,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 291,
+      "end" : 309,
+      "representative" : false,
+      "pvalue" : 1.72E-14,
+      "score" : 100.0,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 291,
+        "end" : 309,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 377,
+      "end" : 395,
+      "representative" : false,
+      "pvalue" : 8.81E-13,
+      "score" : 89.47,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 377,
+        "end" : 395,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-68,
+    "graphscan" : "IIIIIi....",
+    "model-ac" : "PR01300"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "type" : "REGION",
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 210,
+      "end" : 241,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 210,
+        "end" : 241,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "PF06958",
+      "name" : "Pyocin_S",
+      "description" : "S-type Pyocin",
+      "type" : "FAMILY",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "38.2"
+      },
+      "entry" : {
+        "accession" : "IPR016128",
+        "name" : "Pyosin/cloacin_T_dom",
+        "description" : "Pyosin/cloacin translocation domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 344,
+      "end" : 483,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 139,
+      "hmmLength" : 139,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.2E-33,
+      "score" : 126.1,
+      "envelopeStart" : 344,
+      "envelopeEnd" : 483,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 344,
+        "end" : 483,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.9E-33,
+    "score" : 127.2,
+    "model-ac" : "PF06958"
+  } ],
+  "xref" : [ {
+    "name" : "WP_170835785.1 S-type pyocin domain-containing protein [Pseudomonas aeruginosa]",
+    "id" : "WP_170835785.1"
+  } ]
+} ]
+}

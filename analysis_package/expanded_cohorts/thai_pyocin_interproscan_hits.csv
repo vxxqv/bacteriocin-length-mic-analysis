@@ -1,0 +1,78 @@
+pyocin,accession,analysis,signature,signature_description,start,end,interpro_accession,interpro_description,score
+SX2,UYS84545.1,SUPERFAMILY,SSF69369,Cloacin translocation domain,316,575,IPR036302,Pyosin/cloacin translocation domain superfamily,4.05E-52
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,442,460,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,545,564,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,335,355,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,391,414,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,308,329,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,PRINTS,PR01300,Pyocin S killer protein signature,356,374,IPR003060,Pyocin S killer protein,1.4E-67
+SX2,UYS84545.1,Coils,Coil,Coil,277,304,-,-,-
+SX2,UYS84545.1,Pfam,PF06958,S-type Pyocin,409,548,IPR016128,Pyosin/cloacin translocation domain,1.8E-33
+SX2,UYS84545.1,Coils,Coil,Coil,236,256,-,-,-
+S5,WP_003115311.1,Phobius,TRANSMEMBRANE,Region of a membrane-bound protein predicted to be embedded in the membrane.,453,478,-,-,-
+S5,WP_003115311.1,Pfam,PF01024,Colicin pore forming domain,310,494,IPR000293,"Channel forming colicin, C-terminal cytotoxic",3.4E-121
+S5,WP_003115311.1,PRINTS,PR00280,Channel forming colicin signature,355,370,IPR000293,"Channel forming colicin, C-terminal cytotoxic",1.1E-16
+S5,WP_003115311.1,PRINTS,PR00280,Channel forming colicin signature,446,464,IPR000293,"Channel forming colicin, C-terminal cytotoxic",1.1E-16
+S5,WP_003115311.1,PRINTS,PR00280,Channel forming colicin signature,432,445,IPR000293,"Channel forming colicin, C-terminal cytotoxic",1.1E-16
+S5,WP_003115311.1,PRINTS,PR00280,Channel forming colicin signature,374,390,IPR000293,"Channel forming colicin, C-terminal cytotoxic",1.1E-16
+S5,WP_003115311.1,SUPERFAMILY,SSF56837,Colicin,220,497,-,-,1.57E-81
+S5,WP_003115311.1,Phobius,NON_CYTOPLASMIC_DOMAIN,"Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",1,452,-,-,-
+S5,WP_003115311.1,Coils,Coil,Coil,174,194,-,-,-
+S5,WP_003115311.1,Phobius,CYTOPLASMIC_DOMAIN,"Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",479,498,-,-,-
+S5,WP_003115311.1,Gene3D,G3DSA:1.10.490.30,Colicin,290,497,IPR038283,"Channel forming colicin, C-terminal domain superfamily",2.3E-70
+S5,WP_003115311.1,ProSitePatterns,PS00276,Channel forming colicins signature.,432,443,IPR000293,"Channel forming colicin, C-terminal cytotoxic",-
+S5,WP_003115311.1,Coils,Coil,Coil,197,217,-,-,-
+S5,WP_003115311.1,TMHMM,TMhelix,Region of a membrane-bound protein predicted to be embedded in the membrane.,453,475,-,-,-
+S5,WP_003115311.1,Coils,Coil,Coil,241,261,-,-,-
+S5,WP_003115311.1,Coils,Coil,Coil,282,320,-,-,-
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,357,375,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,336,356,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,601,620,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,443,461,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,309,330,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,579,600,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,624,641,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,392,415,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,662,681,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,PRINTS,PR01300,Pyocin S killer protein signature,546,565,IPR003060,Pyocin S killer protein,9.0E-105
+SX1,UYS84543.1,Pfam,PF06958,S-type Pyocin,410,549,IPR016128,Pyosin/cloacin translocation domain,1.2E-34
+SX1,UYS84543.1,SUPERFAMILY,SSF69369,Cloacin translocation domain,317,578,IPR036302,Pyosin/cloacin translocation domain superfamily,1.7E-55
+SX1,UYS84543.1,Pfam,PF21431,"Colicin/Pyocin-S2, DNase domain",558,681,-,-,2.6E-51
+SX1,UYS84543.1,SUPERFAMILY,SSF54060,His-Me finger endonucleases,550,680,IPR044925,His-Me finger superfamily,2.06E-49
+SX1,UYS84543.1,CDD,cd00085,HNHc,640,680,IPR003615,HNH nuclease,2.08885E-5
+SX1,UYS84543.1,Coils,Coil,Coil,278,305,-,-,-
+SX1,UYS84543.1,Gene3D,G3DSA:3.90.540.10,"Colicin/pyocin, DNase domain",555,684,IPR037146,"Colicin/pyocin, DNase domain superfamily",1.1E-57
+SX1,UYS84543.1,Coils,Coil,Coil,237,257,-,-,-
+M1,ERZ09841.1,Gene3D,G3DSA:3.30.450.400,"Colicin M, catalytic domain",160,289,-,-,1.8E-44
+M1,ERZ09841.1,Pfam,PF14859,Colicin M,135,288,IPR028056,Colicin M,5.7E-33
+M1,ERZ09841.1,Gene3D,G3DSA:1.20.1440.280,-,1,158,-,-,3.1E-109
+AP41,BAA02196.1,SMART,SM00507,HNH_5,709,764,IPR003615,HNH nuclease,3.9E-8
+AP41,BAA02196.1,SUPERFAMILY,SSF54060,His-Me finger endonucleases,637,767,IPR044925,His-Me finger superfamily,5.89E-50
+AP41,BAA02196.1,CDD,cd06503,ATP-synt_Fo_b,216,305,-,-,3.95769E-8
+AP41,BAA02196.1,Gene3D,G3DSA:3.90.540.10,"Colicin/pyocin, DNase domain",642,777,IPR037146,"Colicin/pyocin, DNase domain superfamily",3.9E-56
+AP41,BAA02196.1,Pfam,PF06958,S-type Pyocin,502,636,IPR016128,Pyosin/cloacin translocation domain,2.4E-33
+AP41,BAA02196.1,Coils,Coil,Coil,295,315,-,-,-
+AP41,BAA02196.1,CDD,cd00085,HNHc,709,767,IPR003615,HNH nuclease,2.56848E-9
+AP41,BAA02196.1,SUPERFAMILY,SSF69369,Cloacin translocation domain,407,666,IPR036302,Pyosin/cloacin translocation domain superfamily,7.46E-57
+AP41,BAA02196.1,MobiDBLite,mobidb-lite,consensus disorder prediction,236,261,-,-,-
+AP41,BAA02196.1,MobiDBLite,mobidb-lite,consensus disorder prediction,350,359,-,-,-
+AP41,BAA02196.1,MobiDBLite,mobidb-lite,consensus disorder prediction,344,400,-,-,-
+AP41,BAA02196.1,MobiDBLite,mobidb-lite,consensus disorder prediction,384,399,-,-,-
+AP41,BAA02196.1,MobiDBLite,mobidb-lite,consensus disorder prediction,236,259,-,-,-
+AP41,BAA02196.1,Pfam,PF21431,"Colicin/Pyocin-S2, DNase domain",645,768,-,-,3.8E-43
+AP41,BAA02196.1,Coils,Coil,Coil,230,290,-,-,-
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,484,507,IPR003060,Pyocin S killer protein,9.7E-39
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,429,449,IPR003060,Pyocin S killer protein,9.7E-39
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,688,707,IPR003060,Pyocin S killer protein,9.7E-39
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,633,652,IPR003060,Pyocin S killer protein,9.7E-39
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,749,768,IPR003060,Pyocin S killer protein,9.7E-39
+AP41,BAA02196.1,PRINTS,PR01300,Pyocin S killer protein signature,666,687,IPR003060,Pyocin S killer protein,9.7E-39
+G,WP_170835785.1,SUPERFAMILY,SSF69369,Cloacin translocation domain,251,511,IPR036302,Pyosin/cloacin translocation domain superfamily,1.83E-51
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,270,290,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,326,349,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,480,499,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,243,264,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,291,309,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,PRINTS,PR01300,Pyocin S killer protein signature,377,395,IPR003060,Pyocin S killer protein,1.1E-68
+G,WP_170835785.1,Coils,Coil,Coil,210,241,-,-,-
+G,WP_170835785.1,Pfam,PF06958,S-type Pyocin,344,483,IPR016128,Pyosin/cloacin translocation domain,4.2E-33

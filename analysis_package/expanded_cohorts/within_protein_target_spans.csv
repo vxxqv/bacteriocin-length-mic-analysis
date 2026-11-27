@@ -1,0 +1,4 @@
+doi,bacteriocin,n_target_strains,minimum_exact_mic_nM,maximum_or_lower_bound_nM,fold_span,span_type
+10.1002/mbo3.210,Pyocin L3,7,6.9,3300.0,478.2608695652174,strict_lower_bound
+10.1002/mbo3.210,Pyocin L1,8,10.8,3300.0,305.55555555555554,strict_lower_bound
+10.1002/mbo3.210,Pyocin L2,8,13.8,3300.0,239.1304347826087,strict_lower_bound

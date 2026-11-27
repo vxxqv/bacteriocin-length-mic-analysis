@@ -1,0 +1,8 @@
+target_strain,protein_a,protein_b,length_a_aa,length_b_aa,mic_a_nM_lower,mic_b_nM_lower,censoring_a,censoring_b,ratio_a_over_b_lower_or_exact,ratio_b_over_a_lower_or_exact
+P. aeruginosa Bu007,Pyocin L1,Pyocin L2,256,256,10.8,3300.0,exact,right,,305.55555555555554
+P. aeruginosa CFPA101,Pyocin L2,Pyocin L3,256,290,3300.0,3300.0,right,right,,
+P. aeruginosa CFPA120,Pyocin L2,Pyocin L3,256,290,61.8,9.7,exact,exact,6.371134020618557,0.156957928802589
+P. aeruginosa CFPA124,Pyocin L2,Pyocin L3,256,290,61.8,13.8,exact,exact,4.478260869565217,0.22330097087378642
+P. aeruginosa CFPA13,Pyocin L2,Pyocin L3,256,290,13.8,6.9,exact,exact,2.0,0.5
+P. aeruginosa CFPA22,Pyocin L1,Pyocin L2,256,256,3300.0,61.8,right,exact,53.398058252427184,
+P. aeruginosa CFPA22,Pyocin L2,Pyocin L3,256,290,61.8,77.8,exact,exact,0.794344473007712,1.2588996763754046

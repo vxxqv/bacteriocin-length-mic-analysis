@@ -1,0 +1,4 @@
+first,second,minimum_second_minus_first,maximum_second_minus_first,denominator
+PyoL1,PyoL2,6,10,150
+PyoL1,PyoL3,7,44,150
+PyoL2,PyoL3,0,35,150

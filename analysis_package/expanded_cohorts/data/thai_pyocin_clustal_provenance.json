@@ -1,0 +1,9 @@
+{
+  "job_id": "clustalo-R20261102-184707-0412-60274004-p1m",
+  "service": "https://www.ebi.ac.uk/Tools/services/rest/clustalo",
+  "outputs": {
+    "aln-clustal_num": "thai_pyocin_clustalo_alignment.clustal",
+    "fa": "thai_pyocin_clustalo_alignment.fasta",
+    "pim": "thai_pyocin_clustalo_percent_identity.txt"
+  }
+}

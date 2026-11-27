@@ -1,0 +1,42 @@
+{
+  "source": "Laosena et al. 2026, DOI 10.7717/peerj.21850, supplemental Data S1 and Table S2",
+  "raw_xlsx_sha256": "e47feae489f87a06b49ec6b49e71b0be71d7c57d6d1eda0780d6e7387b8d97a1",
+  "thai_n_isolates": 29,
+  "thai_six_pyocins": [
+    "AP41",
+    "SX1",
+    "SX2",
+    "S5",
+    "G",
+    "M1"
+  ],
+  "thai_zone_replicate_rows": 174,
+  "thai_zone_discordant_triplicates": 0,
+  "thai_friedman_zone_p": 8.660217356383634e-14,
+  "thai_friedman_zone_statistic": 70.35126234906693,
+  "thai_length_coverage_spearman": 0.8857142857142858,
+  "thai_length_coverage_exact_permutation_p": 0.03333333333333333,
+  "thai_length_zone_spearman": 0.8857142857142858,
+  "thai_length_zone_exact_permutation_p": 0.03333333333333333,
+  "thai_length_coverage_loo_rho_min": 0.7999999999999999,
+  "thai_length_coverage_loo_rho_max": 0.8999999999999998,
+  "thai_union_AP41_SX1": 29,
+  "thai_mic_numeric_counts": {
+    "AP41": 27,
+    "SX1": 26,
+    "SX2": 20
+  },
+  "thai_mic_complete_cases": 17,
+  "thai_friedman_mic_p": 5.8766682730983726e-05,
+  "thai_biofilm_formation_n": 29,
+  "thai_biofilm_formation_breadth_rho": -0.2812606825211284,
+  "thai_biofilm_formation_breadth_p": 0.13939813984323088,
+  "thai_biofilm_dose_response_strains": 3,
+  "ltype_all_species_n": 242,
+  "ltype_paeruginosa_n": 150,
+  "ltype_outgroup_n": 92,
+  "ltype_abr_annotated_n": 70,
+  "ltype_abr_pirnay_n": 56,
+  "s6_n": 110,
+  "s6_sensitive_n": 22
+}

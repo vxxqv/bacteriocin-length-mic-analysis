@@ -1,0 +1,243 @@
+Species,Isolate,PyoL1,PyoL2,PyoL3,ABR,Origin,Location,Country,Source
+Pseudomonas aeruginosa,A19,-,+,+,0,Wound,Paris,France,JP. Pirnay
+Pseudomonas aeruginosa,Aa245,+,-,-,5,Burn wound,Aachen,Germany,JP. Pirnay
+Pseudomonas aeruginosa,Aa246,-,-,-,1,Burn wound,Aachen,Germany,JP. Pirnay
+Pseudomonas aeruginosa,Aa249,+,-,T,5,Burn wound,Aachen,Germany,JP. Pirnay
+Pseudomonas aeruginosa,ATCC 27853,-,+,+,0,Blood,Boston,USA,ATCC
+Pseudomonas aeruginosa,Be128,-,-,-,1,Sputum,Beverwijk,The Netherlands,JP. Pirnay
+Pseudomonas aeruginosa,Be136,-,-,+,1,Sputum,Beverwijk,The Netherlands,JP. Pirnay
+Pseudomonas aeruginosa,Bo546,-,-,-,1,Burn wound,Boston,USA,JP. Pirnay
+Pseudomonas aeruginosa,Bo548,-,-,-,2,Burn wound,Boston,USA,JP. Pirnay
+Pseudomonas aeruginosa,Bo559,-,-,-,1,Burn wound,Boston,USA,JP. Pirnay
+Pseudomonas aeruginosa,Bo562,-,-,-,1,Blood,Boston,USA,JP. Pirnay
+Pseudomonas aeruginosa,Br229,-,-,-,4,Hospital environment,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br257,-,-,+,0,Plant rhizosphere,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br262,-,-,-,1,Tap water room Burn Wound Centre,Brussels,Brussels,JP. Pirnay
+Pseudomonas aeruginosa,Br642,-,-,+,1,Hospital environment,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br667,-,-,-,4,Burn wound,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br670,-,+,T,3,Sputum,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br678,+,-,-,5,Burn wound,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br680,-,-,-,0,Burn wound,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br735,-,-,-,1,Burn wound,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br776,+,-,-,4,Throat,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br817,-,-,-,1,Wound,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br906,-,-,+,1,Nose,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br908,-,+,-,1,Throat,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Br993,-,-,-,5,Sputum,Brussels,Belgium,JP. Pirnay
+Pseudomonas aeruginosa,Bu002,+,-,T,4,Wound,Budapest,Hungary,JP. Pirnay
+Pseudomonas aeruginosa,Bu004,-,-,-,1,Throat,Budapest,Hungary,JP. Pirnay
+Pseudomonas aeruginosa,Bu007,+,+,-,1,Burn wound,Budapest,Hungary,JP. Pirnay
+Pseudomonas aeruginosa,CFPA1,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA3,-,+,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA4,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA6,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA12,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA13,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA17,-,-,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA19,-,+,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA20,T,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA22,+,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA28,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA33,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA36,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA37,-,+,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA39,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA41,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA53,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA54,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA55,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA56,-,-,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA57,-,-,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA58,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA59,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA62,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA71,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA74,-,-,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA79,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA86,-,+,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA87,-,-,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA90,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA93,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA94,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA101,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA102,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA103,-,+,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA105,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA107,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA108,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA113,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA115,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA116,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA117,-,+,T,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA118,-,+,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA119,-,-,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA120,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA122,-,+,-,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CFPA124,-,+,+,NT,CF patient,Brussels,Belgium,P. Cornelis
+Pseudomonas aeruginosa,CPHL 2000,-,-,-,0,Wound,London,UK,JP. Pirnay
+Pseudomonas aeruginosa,CPHL 6750,-,+,-,2,Urine,Elstree,UK,JP. Pirnay
+Pseudomonas aeruginosa,CPHL 12447,-,-,-,1,Unknown,Chengdu,China,JP. Pirnay
+Pseudomonas aeruginosa,IDEXXCanine4,-,-,+,1,Dog,-,UK,JP. Pirnay
+Pseudomonas aeruginosa,IDEXXCanine12,-,+,T,1,Dog,-,UK,JP. Pirnay
+Pseudomonas aeruginosa,Is573,+,-,-,5,Burn wound,Istanbul,Turkey,JP. Pirnay
+Pseudomonas aeruginosa,Is579,-,-,-,3,Burn wound,Istanbul,Turkey,JP. Pirnay
+Pseudomonas aeruginosa,Is580,-,-,-,4,Burn wound,Istanbul,Turkey,JP. Pirnay
+Pseudomonas aeruginosa,Is582,+,-,-,5,Burn wound,Istanbul,Turkey,JP. Pirnay
+Pseudomonas aeruginosa,Jp97,-,-,T,1,Sea water (open ocean),Pacific Ocean,Japan,JP. Pirnay
+Pseudomonas aeruginosa,Jp100,-,-,T,1,Sea water (open ocean),Pacific Ocean,Japan,JP. Pirnay
+Pseudomonas aeruginosa,Li004,+,-,-,2,CF patient,Lisbon,Portugal,JP. Pirnay
+Pseudomonas aeruginosa,Li009,-,-,T,0,CF patient,Lisbon,Portugal,JP. Pirnay
+Pseudomonas aeruginosa,LMG 1242,+,-,+,NT,Insect,-,-,BCCM/LMG
+Pseudomonas aeruginosa,LMG 1272,+,-,-,NT,Mushroom,-,UK,BCCM/LMG
+Pseudomonas aeruginosa,LMG 2107,+,T,T,1,Shallow well water,Canas,Puerto Rico,BCCM/LMG
+Pseudomonas aeruginosa,LMG 14084,-,+,-,1,Water,Bucarest,Romania,BCCM/LMG
+Pseudomonas aeruginosa,LMG 14085,-,-,-,0,Unknown,-,Hungary,BCCM/LMG
+Pseudomonas aeruginosa,Lo049,-,-,-,4,Burn,London,UK,JP. Pirnay
+Pseudomonas aeruginosa,Lo053,-,-,-,5,Burn,London,UK,JP. Pirnay
+Pseudomonas aeruginosa,Lo062,-,-,-,2,Wound,London,UK,JP. Pirnay
+Pseudomonas aeruginosa,Mi159,+,-,-,2,Pressure sore,Ann Arbor,USA,JP. Pirnay
+Pseudomonas aeruginosa,Mi162,-,-,-,4,Burn wound,Ann Arbor,USA,JP. Pirnay
+Pseudomonas aeruginosa,PA08,-,-,T,NT,CVS,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA10,-,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA11,-,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA53,-,-,T,NT,Bronchus aspiration,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA62,+,-,T,NT,Broncho-pulmonary isolate,Yvoir,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA63,+,-,T,NT,Broncho-pulmonary isolate,Yvoir,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA103,-,+,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA104,-,+,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA129,-,-,+,NT,Blood,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA134,+,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA135,+,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA203,-,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA204,-,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA229,+,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA230,+,-,-,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA271,-,-,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA272,-,-,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA289,-,-,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA291,-,-,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA314,-,+,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA315,-,+,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA346,-,-,T,NT,Broncho-pulmonary isolate,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA383,+,-,-,NT,Broncho-alveolar lavage,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA384,+,-,-,NT,Broncho-alveolar lavage,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA424,+,-,-,NT,Endotracheal aspiration,Brussels,Belgium,F. Van Bambeke
+Pseudomonas aeruginosa,PA1250,-,+,+,NT,CF patient,-,-,F. Van Bambeke
+Pseudomonas aeruginosa,PA1255,-,-,-,NT,CF patient,-,-,F. Van Bambeke
+Pseudomonas aeruginosa,PA1256,-,-,-,NT,CF patient,-,-,F. Van Bambeke
+Pseudomonas aeruginosa,PA1270,-,-,-,NT,CF patient,-,-,F. Van Bambeke
+Pseudomonas aeruginosa,PA1271,-,-,-,NT,CF patient,-,-,F. Van Bambeke
+Pseudomonas aeruginosa,PAO1 (ref strain),+,-,-,1,Wound,Melbourne,Australia,P. Cornelis
+Pseudomonas aeruginosa,PA7 (ref strain),-,-,-,4,Wound,Buenos Aires,Argentina,P. Cornelis
+Pseudomonas aeruginosa,Pr317,T,-,-,5,Burn wound,Prague,Czech Republic,JP. Pirnay
+Pseudomonas aeruginosa,Pr334,T,-,-,5,Hospital environment,Prague,Czech Republic,JP. Pirnay
+Pseudomonas aeruginosa,Pr335,-,-,+,1,Hospital environment,Prague,Czech Republic,JP. Pirnay
+Pseudomonas aeruginosa,Ro124,-,-,-,2,Burn wound,Rotterdam,The Netherlands,JP. Pirnay
+Pseudomonas aeruginosa,So092,+,-,T,3,Burn wound,Sofia,Bulgaria,JP. Pirnay
+Pseudomonas aeruginosa,So098,-,-,T,4,Wound,Sofia,Bulgaria,JP. Pirnay
+Pseudomonas aeruginosa,So123,-,-,-,2,Hospital environment,Sofia,Bulgaria,JP. Pirnay
+Pseudomonas aeruginosa,TA08,-,+,+,1,Sputum,Hobart,Australia,JP. Pirnay
+Pseudomonas aeruginosa,TuD47,-,+,T,0,Ascite,Tunis,Tunisia,JP. Pirnay
+Pseudomonas aeruginosa,UCBPP-PA14,-,-,-,1,Wound,Boston,USA,P. Cornelis
+Pseudomonas aeruginosa,Us448,-,-,+,1,Urine,San Antonio,USA,JP. Pirnay
+Pseudomonas aeruginosa,Us451,+,-,-,1,Burn wound,San Antonio,USA,JP. Pirnay
+Pseudomonas aeruginosa,W11 Aug25,-,-,-,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Apr4,-,-,+,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Aug16,-,+,+,NT,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Dec14,+,-,T,4,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Dec3,-,-,-,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Dec4,-,-,-,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W15 Oct31,-,-,T,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas aeruginosa,W5 Aug28,-,+,+,1,River water,Woluwe river,Belgium,P. Cornelis
+Pseudomonas agarici,LMG 2112,-,-,-,NT,Mushroom with drippy gills,-,New Zealand,BCCM/LMG
+Pseudomonas chicorii,LMG 2162,-,-,-,NT,Isolate from Cichorium endivia,-,Germany,BCCM/LMG
+Pseudomonas chlororaphis,LMG 1245,-,-,-,NT,River clay,Maas river,The Netherlands,BCCM/LMG
+Pseudomonas chlororaphis,LMG 5004,-,-,-,NT,Contaminate plate,-,-,BCCM/LMG
+Pseudomonas entomophila,L48,-,-,-,NT,Fruit flies or decaying fruits,Calvaire,Guadeloupe,P. Cornelis
+Pseudomonas extremorientalis,LMG 19695,-,-,-,NT,Drinking water reservoir,Vladivostoc,Russia,LMG
+Pseudomonas fluorescens,96.578,-,-,-,NT,Sugar beet rhizosphere ,Holeby,Denmark,J. Sorensen
+Pseudomonas fluorescens,A1-B,-,-,-,NT,Potato rhizosphere,California,USA,M. Schroth
+Pseudomonas fluorescens,A506,-,-,-,NT,Pear phyllosphere,California,USA,S. Lindow
+Pseudomonas fluorescens,BL915,-,-,-,NT,"Cotton rhizosphere, blackland soil",Hill County,USA,A. Vande Broek
+Pseudomonas fluorescens,CC-848406-E,-,-,-,NT,-,-,-,D. Korber
+Pseudomonas fluorescens,CHA0,-,-,-,NT,Tobacco rhizosphere,-,Switzerland,G. Défago
+Pseudomonas fluorescens,CTS41,-,-,-,NT,Sugar beet rhizosphere ,Holeby,Denmark,J. Sorensen
+Pseudomonas fluorescens,DR54,-,-,-,NT,Sugar beet rhizosphere ,Holeby,Denmark,J. Sorensen
+Pseudomonas fluorescens,DSS73,-,-,-,NT,Sugar beet rhizosphere ,Holeby,Denmark,J. Sorensen
+Pseudomonas fluorescens,F113,-,-,-,NT,Sugarbeet rhizosphere,-,Ireland,F. O'Gara
+Pseudomonas fluorescens,LMG 1794,-,-,-,NT,Pre-filter water-works tanks,-,UK,BCCM/LMG
+Pseudomonas fluorescens,LMG 5329 t1,-,-,-,NT,Cultivated mushroom,-,-,BCCM/LMG
+Pseudomonas fluorescens,M114,-,-,-,NT,Sugarbeet rhizosphere,-,Ireland,F. O'Gara
+Pseudomonas fluorescens,NRRL B-15132,-,-,-,NT,Wheat rhizosphere,-,USA,D. Weller
+Pseudomonas fluorescens,NRRL B-15134,-,-,-,NT,Wheat rhizosphere,-,USA,D. Weller
+Pseudomonas fluorescens,OE 28.3,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 32.1,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 36.1,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 37.2,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 39.2,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 39.4,-,-,-,NT,Wheat rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 46.1,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 48.2,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 49.2,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 50.2,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,OE 51.3,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas fluorescens,Pf0-1,-,-,-,NT,Soil isolate,Massachusetts,USA,S. Levy
+Pseudomonas fluorescens,Pf-5,-,-,-,NT,Soil isolate,Texas,USA,J. Loper
+Pseudomonas fluorescens,PGSB7716,-,-,-,NT,Maize rhizosphere,Arras,France,CMPG
+Pseudomonas fluorescens,SBW25,-,-,-,NT,Sugarbeet phyllosphere,Oxfordshire,UK,P. Rainey
+Pseudomonas fluorescens,SH10-3B,-,-,-,NT,Decaying broccoli,-,Canada,J. Sorensen
+Pseudomonas fluorescens,WCS141,-,-,-,NT,Wheat rhizosphere,-,The Netherlands,B.J. Lugtenberg
+Pseudomonas fluorescens,WCS365,-,-,-,NT,Potato rhizosphere,-,The Netherlands,B.J. Lugtenberg
+Pseudomonas fluorescens,WCS417r,-,-,-,NT,Wheat rhizosphere,-,The Netherlands,B.J. Lugtenberg
+Pseudomonas fuscovaginae,HPB2646,-,-,-,NT,-,-,-,H. Maraité
+Pseudomonas fuscovaginae,LMG 2158,-,-,-,NT,Oryza sativa,-,Japan,BCCM/LMG
+Pseudomonas marginalis,LMG 2210,-,-,-,NT,Cichorium intybus imported from Belgium,-,USA,BCCM/LMG
+Pseudomonas mendocina,LMG 1223,-,-,-,NT,Soil enriched with ethanol as carbon source,-,Argentina,BCCM/LMG
+Pseudomonas putida,KT2440,-,-,-,NT,Garden soil,-,Japan,R. Diaz
+Pseudomonas putida,LMG2257,-,-,-,NT,Soil by lactate enrichment,-,USA,BCCM/LMG
+Pseudomonas putida,OE 47.1,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas putida,OE 53.2,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas putida,OE 55.1,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas putida,OE 55.7,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas putida,OE 56.3,-,-,-,NT,Maize rhizosphere,-,Belgium,CMPG
+Pseudomonas putida,W619,-,-,-,NT,Poplar endophyte,-,-,J. Vangronsveld
+Pseudomonas putida,WCS358,-,-,-,NT,Wheat rhizosphere,-,The Netherlands,B.J. Lugtenberg
+Pseudomonas resinovorans,LMG2274,-,-,-,NT,Soil isolate,-,France,BCCM/LMG
+Pseudomonas savastanoi,LMG 17581,-,-,-,NT,Fraxinus excelsior,-,France,BCCM/LMG
+Pseudomonas savastanoi,LMG 2209,-,-,-,NT,Olea europaea,-,Yugoslavia,BCCM/LMG
+Pseudomonas savastanoi,LMG 5011,-,-,-,NT,Olea europaea,-,Portugal,BCCM/LMG
+Pseudomonas savastanoi,LMG 5154,-,-,-,NT,Fraxinus sp.,-,USA,BCCM/LMG
+Pseudomonas savastanoi,LMG 5385,-,-,-,NT,Nerium oleander,-,Yugoslavia,BCCM/LMG
+Pseudomonas savastanoi,LMG 5386,-,-,-,NT,Nerium oleander,-,USA,BCCM/LMG
+Pseudomonas savastanoi,LMG 5387,-,-,-,NT,Ligustrum japonicum,-,Italy,BCCM/LMG
+Pseudomonas savastanoi,LMG 5388,-,-,-,NT,Olea europaea,-,Italy,BCCM/LMG
+Pseudomonas savastanoi,LMG 5389,-,-,-,NT,Jasminum sp.,-,Greece,BCCM/LMG
+Pseudomonas savastanoi,LMG 5484,-,-,-,NT,Olea europaea,-,France,BCCM/LMG
+Pseudomonas savastanoi,LMG 5485,-,-,-,NT,Olea europaea,-,USA,BCCM/LMG
+Pseudomonas savastanoi,LMG 5486,-,-,-,NT,Nerium oleander,-,USA,BCCM/LMG
+Pseudomonas savastanoi,LMG 5487,-,-,-,NT,Fraxinus sp.,-,UK,BCCM/LMG
+Pseudomonas savastanoi,LMG 6768,-,-,-,NT,Nerium oleander,-,Spain,BCCM/LMG
+Pseudomonas savastanoi,NCPPB 3335,-,-,-,NT,Olea europaea,-,France,NCPPB
+Pseudomonas stutzeri,A15,-,-,-,NT,Rhizosphere Oryza sativa,-,China,C.B. You
+Pseudomonas stutzeri,CMT.9.A,-,-,-,NT,Rhizosphere Sorghum mutans cv. CSV5,-,India,D. Werner
+Pseudomonas stutzeri,LMG 1228,-,-,-,NT,Clinical isolate,-,-,BCCM/LMG
+Pseudomonas stutzeri,LMG 11199,-,-,-,NT,Spinal fluid,-,-,BCCM/LMG
+Pseudomonas syringae,GR12-2R3,-,-,-,NT,Grass rhizosphere,Arctic region,Canada,R. Lifshitz
+Pseudomonas syringae pv. glycinea,LMG 5066,-,-,-,NT,"Glycine max cv. Disoy, leaf blight",-,New Zealand,BCCM/LMG
+Pseudomonas syringae pv. maculicola,LMG 5295,-,-,-,NT,Raphanus sativus,-,USA,BCCM/LMG
+Pseudomonas syringae pv. maculicola,LMG 5559,-,-,-,NT,Brassica oleracea,-,Zimbabwe,BCCM/LMG
+Pseudomonas syringae pv. maculicola,LMG 5663,-,-,-,NT,Brassica nigra,-,UK,BCCM/LMG
+Pseudomonas syringae pv. morsprunorum,LMG 2222,-,-,-,NT,"Prunus avium cv. Napoleon, leaf spot",-,UK,BCCM/LMG
+Pseudomonas syringae pv. savastanoi,LMG 5390,-,-,-,NT,Nerium oleander,-,New Zealand,BCCM/LMG
+Pseudomonas syringae pv. syringae,LMG 1247,-,-,-,NT,Syringa vulgaris,-,UK,BCCM/LMG
+Pseudomonas syringae pv. tabaci,LMG 5192,-,-,-,NT,Nicotiana tabacum,-,Malawi,BCCM/LMG
+Pseudomonas syringae pv. tomato,DC3000,-,-,-,NT,Tomato isolate,-,Canada,J. Glazebrook
+Pseudomonas tolaasii,CH36,-,-,-,NT,Mushroom,-,Belgium,CMPG
+Pseudomonas tolaasii,LMG 2338,-,-,-,NT,Cultivated mushroom,-,UK,BCCM/LMG
+Pseudomonas tolaasii,LMG 2342,-,-,-,NT,Cultivated mushroom,-,UK,BCCM/LMG
+Pseudomonas tolaasii,LMG 2344,-,-,-,NT,"Garden pond, sludge",-,Germany,BCCM/LMG
+Pseudomonas tolaasii,LMG 2345t1,-,-,-,NT,Cultivated mushroom,-,Italy,BCCM/LMG
+Pseudomonas tolaasii,LMG 2346,-,-,-,NT,Cultivated mushroom,-,New Zealand,BCCM/LMG
+Pseudomonas tolaasii,LMG 6641,-,-,-,NT,Cultivated mushroom,-,Belgium,BCCM/LMG
+Pseudomonas tolaasii,LMG 6654t1,-,-,-,NT,Cultivated mushroom,-,Belgium,BCCM/LMG
+Pseudomonas viridiflava,LMG 2352,-,-,-,NT,Phaseolus sp.,-,Switzerland,BCCM/LMG

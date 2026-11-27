@@ -1,0 +1,15 @@
+definition,proteins,number_of_proteins,covered_isolates,coverage_percent,gain_over_best_member
+published_counting,PyoL1,1,30,20.0,0
+strict_plus_only,PyoL1,1,27,18.0,0
+published_counting,PyoL2,1,37,24.666666666666668,0
+strict_plus_only,PyoL2,1,36,24.0,0
+published_counting,PyoL3,1,71,47.333333333333336,0
+strict_plus_only,PyoL3,1,37,24.666666666666668,0
+published_counting,PyoL1+PyoL2,2,63,42.0,26
+strict_plus_only,PyoL1+PyoL2,2,61,40.666666666666664,25
+published_counting,PyoL1+PyoL3,2,91,60.666666666666664,20
+strict_plus_only,PyoL1+PyoL3,2,62,41.333333333333336,25
+published_counting,PyoL2+PyoL3,2,79,52.666666666666664,8
+strict_plus_only,PyoL2+PyoL3,2,56,37.333333333333336,19
+published_counting,PyoL1+PyoL2+PyoL3,3,98,65.33333333333333,27
+strict_plus_only,PyoL1+PyoL2+PyoL3,3,80,53.333333333333336,43

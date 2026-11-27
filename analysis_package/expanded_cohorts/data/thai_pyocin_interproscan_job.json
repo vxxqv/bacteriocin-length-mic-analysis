@@ -1,0 +1,10 @@
+{
+  "job_id": "iprscan5-R20261127-150929-0759-78107799-p1m",
+  "service": "https://www.ebi.ac.uk/Tools/services/rest/iprscan5",
+  "source": "Laosena et al. 2026 Table S2",
+  "outputs": {
+    "tsv": "thai_pyocin_interproscan.tsv",
+    "json": "thai_pyocin_interproscan.json",
+    "gff": "thai_pyocin_interproscan.gff3"
+  }
+}

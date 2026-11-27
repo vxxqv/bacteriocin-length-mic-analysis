@@ -1,0 +1,8 @@
+doi,target_strain,assay_group,family,proteins,length_range_aa,slope_log10_nM_per_aa,log10_mic_span,proteins_ordered_by_length
+10.1002/mbo3.210,P. aeruginosa CFPA120,kinetic broth MIC,lectin-like,2,34,-0.02365343355360503,0.804216740822571,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA124,kinetic broth MIC,lectin-like,2,34,-0.019150276137869984,0.6511093886875794,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA13,kinetic broth MIC,lectin-like,2,34,-0.008853823401881799,0.30102999566398114,Pyocin L2; Pyocin L3
+10.1002/mbo3.210,P. aeruginosa CFPA22,kinetic broth MIC,lectin-like,2,34,0.00294091535002568,0.09999112190087311,Pyocin L2; Pyocin L3
+10.1038/s41598-019-51969-1,K. pneumoniae DSM16358,microbroth dilution,ColM-like,3,6,-0.0334618454346917,0.9045950889207928,KpneM2; KvarM; KpneM
+10.1038/s41598-019-51969-1,K. variicola DSM15968,microbroth dilution,ColM-like,2,2,0.14722547589009333,0.29445095178018665,KvarM; KpneM
+10.1038/s41598-019-51969-1,K. variicola DSM15968,microbroth dilution,pore-forming,3,37,0.011071949364072613,0.5593548097473322,KpneA; KaerA; KvarIa

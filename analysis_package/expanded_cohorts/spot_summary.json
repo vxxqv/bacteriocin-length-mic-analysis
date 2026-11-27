@@ -1,0 +1,122 @@
+{
+  "source_doi": "10.1002/mbo3.210",
+  "source_supplement": "Table S1",
+  "panel_isolates": 150,
+  "source_all_species_isolates": 242,
+  "published_counting": {
+    "PyoL1": 30,
+    "PyoL2": 37,
+    "PyoL3": 71,
+    "any_pyocin": 98
+  },
+  "strict_plus_only": {
+    "PyoL1": 27,
+    "PyoL2": 36,
+    "PyoL3": 37,
+    "any_pyocin": 80
+  },
+  "raw_codes": {
+    "PyoL1": {
+      "+": 27,
+      "T": 3,
+      "-": 120
+    },
+    "PyoL2": {
+      "+": 36,
+      "T": 1,
+      "-": 113
+    },
+    "PyoL3": {
+      "+": 37,
+      "T": 34,
+      "-": 79
+    }
+  },
+  "paired_results": [
+    {
+      "definition": "published_counting",
+      "first": "PyoL1",
+      "second": "PyoL2",
+      "both": 4,
+      "first_only": 26,
+      "second_only": 33,
+      "neither": 87,
+      "union": 63,
+      "jaccard": 0.06349206349206349,
+      "paired_risk_difference_second_minus_first": 0.04666666666666667,
+      "exact_mcnemar_p": 0.4349928051221534,
+      "holm_adjusted_p": 0.4349928051221534
+    },
+    {
+      "definition": "published_counting",
+      "first": "PyoL1",
+      "second": "PyoL3",
+      "both": 10,
+      "first_only": 20,
+      "second_only": 61,
+      "neither": 59,
+      "union": 91,
+      "jaccard": 0.10989010989010989,
+      "paired_risk_difference_second_minus_first": 0.2733333333333333,
+      "exact_mcnemar_p": 5.656214894965938e-06,
+      "holm_adjusted_p": 1.1312429789931876e-05
+    },
+    {
+      "definition": "published_counting",
+      "first": "PyoL2",
+      "second": "PyoL3",
+      "both": 29,
+      "first_only": 8,
+      "second_only": 42,
+      "neither": 71,
+      "union": 79,
+      "jaccard": 0.3670886075949367,
+      "paired_risk_difference_second_minus_first": 0.22666666666666666,
+      "exact_mcnemar_p": 1.163555804595262e-06,
+      "holm_adjusted_p": 3.4906674137857863e-06
+    },
+    {
+      "definition": "strict_plus_only",
+      "first": "PyoL1",
+      "second": "PyoL2",
+      "both": 2,
+      "first_only": 25,
+      "second_only": 34,
+      "neither": 89,
+      "union": 61,
+      "jaccard": 0.03278688524590164,
+      "paired_risk_difference_second_minus_first": 0.06,
+      "exact_mcnemar_p": 0.2975952082844287,
+      "holm_adjusted_p": 0.7351824990688371
+    },
+    {
+      "definition": "strict_plus_only",
+      "first": "PyoL1",
+      "second": "PyoL3",
+      "both": 2,
+      "first_only": 25,
+      "second_only": 35,
+      "neither": 88,
+      "union": 62,
+      "jaccard": 0.03225806451612903,
+      "paired_risk_difference_second_minus_first": 0.06666666666666667,
+      "exact_mcnemar_p": 0.2450608330229457,
+      "holm_adjusted_p": 0.7351824990688371
+    },
+    {
+      "definition": "strict_plus_only",
+      "first": "PyoL2",
+      "second": "PyoL3",
+      "both": 17,
+      "first_only": 19,
+      "second_only": 20,
+      "neither": 94,
+      "union": 56,
+      "jaccard": 0.30357142857142855,
+      "paired_risk_difference_second_minus_first": 0.006666666666666667,
+      "exact_mcnemar_p": 1.0,
+      "holm_adjusted_p": 1.0
+    }
+  ],
+  "all_negative_published_counting": 52
+}

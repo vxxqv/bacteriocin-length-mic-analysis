@@ -1,0 +1,21 @@
+{
+  "all_records": 47,
+  "all_proteins": 22,
+  "all_studies": 9,
+  "matched_blocks": 11,
+  "matched_records": 29,
+  "matched_proteins": 17,
+  "matched_studies": 3,
+  "exact_matched_blocks": 7,
+  "exact_matched_records": 16,
+  "length_varying_exact_blocks": 7,
+  "positive_length_slopes": 3,
+  "negative_length_slopes": 4,
+  "l1_l2_sequence_identity_percent": 86.328125,
+  "l1_l2_length_aa": 256,
+  "bu007_l2_to_l1_mic_lower_bound_fold": 305.55555555555554,
+  "cfpa22_l1_to_l2_mic_lower_bound_fold": 53.398058252427184,
+  "l2_l3_exact_strains": 4,
+  "l2_l3_fold_min": 0.794344473007712,
+  "l2_l3_fold_max": 6.371134020618557
+}
